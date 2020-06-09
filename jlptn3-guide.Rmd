@@ -1,0 +1,250 @@
+---
+title: "jlptn3"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r echo=FALSE, message=FALSE, error=FALSE}
+#add libraries
+library(tidyverse)
+library(knitr)
+library(DT)
+library(xtable)
+library(kableExtra)
+library(blogdown)
+library(reactable)
+library(shiny)
+
+#add data tables
+kanji <- read_csv("mrcollection/Kanji-Kanji 1901.csv")
+sanji <- read_csv("mrcollection/KanjiSW-SwordKanji.csv")
+words <- read_csv("mrcollection/Words2p8k-Words.csv")
+cords <- read_csv("mrcollection/CompWords-comp.csv")
+iords <- read_csv("mrcollection/IntrWords-Inter-Words.csv")
+verbs <- read_csv("mrcollection/Verb500-v-list.csv")
+rands <- read_csv("en_vocab_list/Complete List-Table 1.csv")
+nouns <- read_csv("en_vocab_list/Adjectival nouns-Table 1.csv")
+ver1s <- read_csv("en_vocab_list/Verbs-Table 1.csv")
+
+w5rds <- read_csv("mrcollection/Word5k-Words5K.csv")
+w5kds <- read_csv("mrcollection/Word5k+-Words5k.csv")
+
+n5 <- read_csv("jlptcollection/VocabN5-N5Vocab.csv")
+n4 <- read_csv("jlptcollection/VocabN4-N4Vocab.csv")
+n3 <- read_csv("jlptcollection/VocabN3-N3Vocab.csv")
+n2 <- read_csv("jlptcollection/VocabN2-N2Vocab.csv")
+
+exp1 <- read_csv("jlptcollection/GoiN3-Words.csv")
+
+```
+
+### **A Self Study Guide**
+
+# {.tabset .tabset-fade .tabset-pills}
+***
+## Words
+```{r echo=FALSE, message=FALSE, error=FALSE}
+
+rands_1 <- rands %>% slice(0:500)
+rands_2 <- rands %>% slice(501:1000)
+rands_3 <- rands %>% slice(1001:1500)
+rands_4 <- rands %>% slice(1501:2000)
+rands_5 <- rands %>% slice(2001:2500)
+rands_6 <- rands %>% slice(2501:5000)
+rands_7 <- rands %>% slice(5501:9000)
+rands_8 <- rands %>% slice(9001:12000)
+dt_words <- sample_n(words,2800)
+dt_iords <- sample_n(iords,500)
+dt_cords <- sample_n(cords,500)
+dt_rands_1 <- sample_n(rands_1,500)
+dt_rands_2 <- sample_n(rands_2,500)
+dt_rands_3 <- sample_n(rands_3,500)
+dt_rands_4 <- sample_n(rands_4,500)
+dt_rands_5 <- sample_n(rands_5,500)
+dt_rands_6 <- sample_n(rands_6,1200)
+dt_rands_7 <- sample_n(rands_7,1200)
+dt_rands_8 <- sample_n(rands_8,1200)
+
+reactable(dt_rands_1, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(dt_rands_2, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(dt_rands_3, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(dt_rands_4, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(dt_rands_5, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(dt_rands_6, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(dt_rands_7, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(dt_rands_8, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+```
+
+## Vocabulary
+
+##### **Core 2K Words:**
+```{r echo=FALSE, message=FALSE, error=FALSE, message=FALSE}
+reactable(dt_words, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+```
+
+##### **Compound Words:**
+```{r echo=FALSE, message=FALSE, error=FALSE, message=FALSE}
+reactable(dt_cords, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+```
+
+##### **Intermediate Words:**
+```{r echo=FALSE, message=FALSE, error=FALSE, message=FALSE}
+reactable(dt_iords, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+```
+
+##### **Core 5K Words:**
+```{r echo=FALSE, message=FALSE, error=FALSE, message=FALSE}
+dt_w5rds <- sample_n(w5rds,4999)
+reactable(dt_w5rds, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+```
+
+##### **Core 10K Words:**
+```{r echo=FALSE, message=FALSE, error=FALSE, message=FALSE}
+dt_w5kds <- sample_n(w5kds,4692)
+reactable(w5kds, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+```
+
+
+## Kanji
+##### **First  1901 Kanji:**
+```{r echo=FALSE, message=FALSE, error=FALSE}
+dt_kanji <- sample_n(kanji,1901)
+reactable(dt_kanji, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+```
+
+##### **Single Word Kanji:**
+```{r echo=FALSE, message=FALSE, error=FALSE}
+#dt_sanji <- sample_n(sanji,937)
+reactable(sanji, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+```
+
+## Expressions
+##### **Daily Expressions:**
+
+    Hai. Yes. はい。  
+    Iie. No. いいえ。  
+    O-negai shimasu. Please. おねがいします。  
+    Arigatō. Thank you. ありがとう。  
+    Dōitashimashite. You're welcome. どういたしまして。  
+    Sumimasen. Excuse me. すみません。  
+    Gomennasai. I am sorry. ごめんなさい。  
+    Ohayō gozaimasu. Good morning. おはようございます。  
+    Konbanwa. Good evening. こんばんは。  
+    O-yasumi nasai. Good night. おやすみなさい。
+
+##### **Daily Life Expressions:**
+```{r echo=FALSE, message=FALSE, error=FALSE}
+reactable(exp1, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+```
+
+##### **Going-out Expressions:**
+```{r echo=FALSE, message=FALSE, error=FALSE}
+reactable(exp1, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+```
+
+    
+## Nouns
+
+```{r echo=FALSE, message=FALSE, error=FALSE, message=FALSE}
+
+nouns_1 <- nouns %>% slice(0:500)
+nouns_2 <- nouns %>% slice(501:1000)
+nouns_3 <- nouns %>% slice(1001:1500)
+
+reactable(nouns_1, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(nouns_2, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(nouns_3, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+
+```
+
+## Verbs
+##### **Verb 500:**
+
+```{r echo=FALSE, message=FALSE, error=FALSE}
+dt_verbs <- sample_n(verbs,500)
+reactable(verbs, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+```
+
+##### **Random Verbs:**
+```{r echo=FALSE, message=FALSE, error=FALSE}
+
+ver1 <- ver1s %>% slice(0:1000)
+ver2 <- ver1s %>% slice(1001:2000)
+dt_ver1s <- sample_n(ver1,500)
+dt_ver2s <- sample_n(ver2,500)
+
+reactable(dt_ver1s, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(dt_ver2s, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+```
+
+## Adjectives
+
+## Reading
+
+## Grammar
+
+## Conversations
+##### **Daily Conversations:**
+Conversation|	Translation|Structure
+------------------------------------|-------------------|--------------------
+**Lesson 1	第1課-th/one/lesson**	||
+早く|	Hurry!	|
+行きましょう|	Let’s go|	
+わかりました|	I undestand|	
+どこへ|	Where?|	where/[destination]
+あそこへ|	Over there|	there/[destination]
+暑いですね|	It’s hot. Isn’t it|	hot/it is/[agreement]
+そうですね|	It is. Isn’t| it	so/it is/[agreement]
+**Lesson 2	第2課-th/four/lesson-th/two/lesson**	||
+見ましたか|	Did you see it?|	have seen/[question]
+何を|	What?|	what/[object]
+ピカソ展|	Picasso Exhibition|	Picasso-Exhibition
+まだです|	Not yet|	Not yet/it is
+いいですよ|	It’s really good	|really good/it is/[agreement]
+そうですか|	Really?|	so it is/[question]
+明日行きます|	I’ll go tomorrow|	tomorrow/go
+**Lesson 3	Breakfast**	||
+おはようございます|	Good Morning	|
+おはようございます|	Good Morning	|
+パンを食べますか|	Would you like some bread?|	bread/[object]/eat/[question]
+食べます|	Yes	|eat
+コーヒーを飲みますか|	Would you like some coffee?|	coffee/[object]/drink/[question]
+飲みます|	Yes|	drink
+ビルを飲みますか|	Would you like some beer?	|beer/[object]/drink/[question]
+飲みません|	No|	not drink
+りんごを食べますか|	Would you like some apple?|	apple/[object]/eat/[question]
+食べませ|	No|	not eat
+それでは卵を食べますか|	Well then would you like some eggs?|	so/egg/[object]/eat[question]
+食べます|	Yes|	eat
+
+## JLPT
+
+##### **N5:**
+```{r echo=FALSE, message=FALSE, error=FALSE}
+dt_n5 <- sample_n(n5,860)
+reactable(dt_n5, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+```
+
+##### **N4:**
+```{r echo=FALSE, message=FALSE, error=FALSE}
+dt_n4 <- sample_n(n4,536)
+reactable(dt_n4, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+```
+
+##### **N3:**
+```{r echo=FALSE, message=FALSE, error=FALSE}
+dt_n3 <- sample_n(n3,1723)
+reactable(dt_n3, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+```
+
+##### **N2:**
+```{r echo=FALSE, message=FALSE, error=FALSE}
+dt_n2 <- sample_n(n2,1614)
+reactable(dt_n2, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+```
+
+
+#

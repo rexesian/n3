@@ -1,0 +1,124 @@
+Grammar,Pattern,Sentences
+だ / です (da / desu): to be (copula),,
+"だけ (dake): only, just","Verb-casual + だけ
+いadj + だけ
+なadj + だけ
+Noun + だけ
+",
+だろう (darou): probably,"Verb-casual + だろう
+い-adjective + だろう
+な-adjective + だろう
+Noun + だろう",
+"で (de) – 1: at, in, on",Location + で,
+"で (de) – 2: with, by",Noun + で,
+"でしょう (deshou): I think, probably","Noun + でしょう
+Verb + でしょう
+Adjective + でしょう",
+が (ga) – 1: subject marker,,
+"が (ga) – 2: but, however",Sentence 1 + が + Sentence 2,
+がある (gaaru): there is (used for non-living things),Person/Place + (に)は + thing + がある,
+がいる (gairu): there is (used for living things),Person/Place + (に)は + thing + がいる,
+ほうがいい (hou ga ii) 1: it’d be better to,"Verb-casual past + ほうがいい
+Verb-casual, non-past + ほうがいい",
+ほうがいい (hou ga ii) 2: it’d be better to not,Verb ない form + ほうがいい,
+いちばん (ichiban): the most,"Noun + は/が一番 + adjective + だ
+Verb-dictionary form + のは/のが一番 + adjective + だ",
+"か (ka) 1: or (A or B, choice between 2 objects)","Verb + か
+Noun + か
+Adjective + か",
+か (ka) 2: question particle,Sentence + か,
+"から (kara) 1: because, since","Verb + から
+いadjective + から
+なadjective + だから
+Noun +　だから",
+から (kara) – 2: from,Noun + から,
+"けれども (keredomo): but, although",Sentence + けど/けれど/けれども,
+"くらい (kurai): about, approximately",Noun + くらい/ぐらい,
+"まだ (mada): still, not yet",まだ + Verb,
+"まで (made): until, till, to, even, as far as",Noun + まで,
+"まえに (mae ni): before, in front of","Verb-dictionary form + 前に
+Noun + の前に",
+"ませんか (masen ka): let’s, won’t you, wouldn’t you",Verb-polite negative form + ませんか,
+"ましょう (mashou): let’s, shall we",Verb-ますstem + ましょう / ましょうか,
+"も (mo): also, too, as well",Noun + も,
+"もう (mo): already, anymore","もう +　Verb past
+もう +　Verb negative",
+な (na): don’t do,Verb-dictionary form + な,
+ないでください (naidekudasai): please don’t,Verb-command negative form + ないでください,
+なる (naru): to become,"Noun + になる
+なadjective +　になる
+いadjective remove　い + くなる",
+"に (ni): in, at, to, on, for",Noun + に,
+に/へ (ni/e): to (indicates direction / destination),Noun + に/へ,
+にいく (ni iku): to go in order to do something,Verb- ます stem + にいく,
+にする (nisuru): to decide on,Noun + にする,
+の (no) – 1: of (indicates possessive),Noun 1 + の + Noun 2,
+の (no) – 2: Verb nominalizer,Verb-casual + の,
+"ので (node): because of, the reason is that, given that","Verb + ので
+Noun + なので
+いadj + ので
+なadj + なので",
+のがじょうず (no ga jouzu):  to be good at,"Verb-dictionary form + のがじょうず
+Noun + がじょうず",
+のがすき (no ga suki): to love / to like doing something,Verb-dictionary form + のがすき + だ / です,
+のがへた (no ga heta): to be bad at / to be not good at something,Verb-dictionary form + のが下手だ,
+たい (tai): want to,Verb- ます stem + たい,
+たことがある (takotogaaru): have done something before,Verb-plain past + ことがある,
+ている (teiru): is/are/am doing,Verb-てform + いる,
+てください (tekudasai): please do…,Verb てform  (te form) + ください (kudasai),
+"てもいい (temo ii): is okay, is alright to, can, may","Verb-てform + もいい
+いadjective (remove い)  + くてもいい
+なadjective + でもいい
+Noun + でもいい",
+てから (tekara): after doing something; since,Verbてfrom + から,
+"てはいけない (tewaikenai): must not, may not, cannot",Verb-てform + はいけない/ちゃいけない/はだめ/ちゃだめ,
+"と (to): and, with",Noun + と + Noun,
+"つもりだ: plan to, intend to","Verb-casual + つもりだ
+なadj + なつもりだ
+いadj + つもりだ
+Noun + のつもりだ",
+や (ya): and,Noun + や + Noun,
+より ~ のほうが ~ (yori ~ nohouga ~): is more ~ than,"Noun 1 より　Noun 2 の方が　…
+Verb-phrase 1 より　V-phrase 2 方が　…
+い-adjective 1 より　い-adjective 2 方が　…
+な-adjective 1 より　い-adjective 2 な方が　…",
+"が (ga)  1: が follows the subject with a verb 2. が follows the subject with an adjective 3. Use が before suki, korai and hoshii 4. Use が before dekiru and wakaru 5. In a noun modifying sentence は is replaced by が  *(General Rule: —- が + Intransitive Verb)"," 1. Subject + が + Verb 2. Subject + が + Adjective + (desu) 3. が + (suki, kirai, hoshii) + (desu) 4. が + (dekiru, wakaru) 5. Noun modifying clause + が",
+"は (wa) 1: は follows the topic of the sentence and is followed but he explanation of the topic 2. が and を are replaced by Wa to mark the negated element of the negative sentence 3. Contrastive sentence"," 1. Topic + わ 2. —-わ—-ない(negative sentence) 3. X わ —-が, Y わ",
+"を (wo) 1: [Direct Object] を + verb(1) 2. [Direct Object] を + verb(2) :を indicates a place of passage 3. [Direct Object] を + verb(3) 4. [Direct Object] を + verb(4) :を indicates place of departure  *(General Rule: —- を + Transitive Verb)"," 1. —- を + verb (yomu, taberu, yasumu, shiru) 2. [Street/Place] を + verb (aruku, wataru, sanpo suru, hashiru, tobu)  3. [Train/Bus/Car/etc] を orimasu (get off/out of) 4. [Place] を demasu (leave a place) ",
+"に (ni) 1: に follows the place name :  (に indicates a place of existence) 2. に follows the time, day, month and year : (に indicates a point in time) 3: に follows an indirect object (ex. a person, etc) : (に indicates an “indirect object” which is the recipient of the object which acted by the verb) 4. [Something/Someone] + に + verb 5. [Place] に + go to/come/return to :  に indicates direction of movement 6. [Place] に + enter 7. [Time Period] に + kai/do [Number of times] 8. [Noun/Verb] に + go to/come/return to : に indicates a purpose   "," 1.[Place] に imasu/arimasu 2.[Time] に —-shimasu 3.[Indirect Object] に —- + verb (ask, telephone, teach, etc)  4.[Person] に aimasu (meet) [Place] に sunde imasu (live) [Bus/Train/Car] に norimasu (get on/in) [Company] に tsutomete imasu (work for) [Note/Paper] に kakimasu (write on) [Chair] に suwaru (sit on) 5.[Place] に + verb (iku, kuru, kaeru) 6.[Place] に + verb (hairu) 7.[Time Period] に + かい/ど [Number of times] 8.[Noun] に + verb (iku, kuru, kaeru) [Verb - masu] に + verb (iku, kuru, kaeru)",
+で,,
+も,,
+から,,
+まで,,
+と,,
+や・など,,
+か,,
+ね,,
+よ,,
+わ,,
+これ・それ・あれ・どれ,,
+この・その・あの・どの,,
+こ・そこ・あそこ・どこ,,
+こちら・そちら・あちら・どちら,,
+こっち・そっち・あっち・どっち,,
+が・でも・しかし,,
+ながら,,
+とき,,
+まえに,,
+あとで,,
+ごろ・くらい,,
+だけ・しか,,
+ずつ,,
+それから,,
+もう,,
+もっと,,
+いつも,,
+たいてい,,
+ときどき,,
+よく,,
+また,,
+あまり,,
+ちょっと,,
+ちょどう,,
+それでは,,
+もちろん,,

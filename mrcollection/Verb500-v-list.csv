@@ -1,0 +1,803 @@
+#,English,Romaji,Japanese,Sentence
+1,abuse verbally,nonoshiru,ののしる,彼女はさんざん私の事をののしった。She called me many terrible things.
+2,adapt to,najimu,馴染む,旧弊な人は新しい事になじめない。You can’t teach an old dog new tricks.
+3,add,tasu,足す,"砂糖を少し足して下さい。
+Add a bit of sugar, please."
+4,add to,kuwaeru,加える,"それに私も加えておいて。
+Count me in."
+5,answer,kotaeru,答える,"私は質問に答えたでしょうか。
+Have I answered your question?"
+6,arrive,tsuku,着く,あなたがロンドンに着くころ頃には晩秋となっているだろう。It will be late autumn when you get to London.
+7,aspire to,kokorozasu,志す,"彼はやろうと志すものは、何でもやり遂げる。
+He accomplishes whatever he sets out to do."
+8,attack,osou,襲う,"台風が東京を襲った。
+The typhoon hit Tokyo."
+9,"attract attention, stand out",medatsu,"目立つ
+めだつ","林に竹が目立つ。
+Bamboo stands out in the woods."
+10,"avoid, dodge",sakeru,避ける,揚げ物はしばらく避けなさい。 Avoid fried foods for a while.
+11,"bake, grill",yaku,焼く,母は日曜日にはクッキーを焼く。 Mother bakes cookies on Sundays. ▾
+12,"ban, prohibit",kinjiru,禁じる,彼女は喫煙を禁じられた。 She was prohibited from smoking.
+13,be,iru,いる,田中さんはいないです。Mr. Tanaka isn’t here.
+14,be absorbed in/obsessed by,fukeru,ふける,彼女は飲酒にふけった。 She abandoned herself to drinking.
+15,be alive,ikiru,生きる,生きる意味を教えてくれ。 Tell me the meaning of life.
+16,"be audible, able to hear",kikoeru,聞こえる,虫の音がきこえます。 I can hear the chirping of insects.
+17,be based on,motozuku,基づく,彼女は事実に基づいて議論を展開する。 Her argument was founded on fact.
+18,"be blinded, get dizzy",kuramu,眩む,彼女はその豪華な部屋に目のくらむ思いがした。 She was dazzled by the gorgeous room.
+19,be born,umareru,生まれる,"油断なく注意さえしておれば好機はおのずからうまれる。 Plenty of opportunities will present themselves, if only you are awake to them. ▾"
+20,"be broken, snap",oreru,折れる,彼は顎の骨を折って、歯も何本か折れた。 He got a broken jaw and lost some teeth.
+21,"be burned, charred",kogeru,焦げる,このコーヒーはこげた味がする。 This coffee tastes burnt.
+22,"be cured, healed",naoru,治る,風邪が治るのに長くかかった。 It took me a long time to get over my cold.
+23,"be decided, agreed upon",kimaru,決まる,話は決まった。 Let’s leave it at that.
+24,be different from,kotonaru,異なる,毎日同じ教室を２つの異なった生徒達の集団で使っているのです。 We use the same classroom for two different groups of students each day.
+25,"be different, wrong",chigau,違う,運んできてくれたランチは噂に違わず旨
+26,be drunk,yopparau,酔っ払う,"私は少し酔っている。
+I am a bit drunk."
+27,"be enough, suffient",tariru,足りる,必要を満たすに足りる収入。 An income adequate for one’s needs.
+28,be excited,dokidoki suru,ドキドキする,"彼は次の旅行の事を考えると、ドキドキする。
+Whenever he thinks of the trip he’s got coming up, he gets all excited."
+29,be found,mitsukaru,見つかる,"明日の朝起きたらすてきなものが見つかるよ。 When you wake up tomorrow morning, you will find a wonderful thing. ▾"
+30,be frightened,tamagiru,,彼女がワインをからにしたのにはたまげた。 I was amazed that she had drunk all of the wine.
+31,"be glad, pleased",yorokobu,喜ぶ,"喜んで行きます。
+I’ll be glad to come."
+32,be in trouble,komaru,困る,"会社をクビになったけど、貯金がすこしあるので、差し詰め生活には困らない。 I got fired from the company, but since I have a little money saved up, for the time being, I won’t have trouble with living expenses."
+33,"be late, lag behind",okureru,遅れる,列車は雪のため遅れた。 The train was delayed by snow.
+34,be lazy,namakeru,怠ける,彼は勉強を怠けている。 He is lazy in his study.
+35,"be missing, vanish",nakunaru,無くなる,欲に目がくらんで判断力が無くなったらしい。 Greed seems to have blinded his good judgement.
+36,"be mixed,",majiru,混じる,トムは知らない人に混じって居心地が悪かった。 Tom is ill at ease among strangers.
+37,be next,tsugu,次ぐ,きれい好きは敬神に次ぐ美徳。 Cleanliness is next to godliness.
+38,be nervous,kinchou suru,緊張する,緊張する必要はありまんせん. There’s no need to be nervous.
+39,be popular,moteru,もてる,彼はモテる。He’s popular with the ladies.
+40,"be profitable, make money",mokaru,儲かる,この商売は儲かりません。 There isn’t much money in this business
+41,be puzzled,mayou,迷う,彼は森で迷った。 He lost his way in the woods.
+42,be resurrected;,yomigaeru,蘇る,春の雨が花に生気をよみがえらせた。A spring rain revived the flower.
+43,"be sad, grieve",kanashimu,悲しむ,悲しんでいる彼女をそっとしておきなさい。 Don’t intrude on her sorrow.
+44,"be saved, accumulated",tamaru,たまる,彼は借金がたまって夜逃げ同然に町を去った。 He was deeply in debt. And he and his family skipped town. ▾
+45,be slippery,numeru,滑る,彼女はすべらないようにゆっくりと歩いた。 She walked slowly so she wouldn’t slip. ▾
+46,"be suprised, amazed",odoroku,驚く,"トムは驚いた。
+Tom was shocked."
+47,"be visible, able to see",mieru,見える,モロに見える。It’s completely visible.
+48,bear a grudge,uramu,恨む,"セーラは恨むような女の子ではないだろうが。
+Well, I don’t think Sara is the sort of girl to bear grudges."
+49,become,naru,なる,"春になった。
+Spring is here."
+50,"become blurred, hazy",kasumu,霞む,"くの物がかすんで見えます。
+Distant things look blurred."
+51,become crowded,komu,込む,The train is very crowded this evening.
+52,become dark,kageru,現る,"月が雲のかげから現れた。
+The moon emerged from behind the cloud."
+53,become dry,kawaku,乾く,"乾いた砂は水を吸い込む。
+Dry sand absorbs water."
+54,"become empty, uncrowded",suku,"空く
+すく","お腹は空いていますか？
+Are you hungry?"
+55,"become hurt, damaged",itamu,痛む,"背中が痛む。
+My back hurts."
+56,become popular,hayaru,流行る,"今何が流行っていますか。
+What is popular now?"
+57,become stronger,tsuyomaru,強まる,"年をとると共に、情熱は薄れるが、身についた習慣は強まるものだ。
+Passions weaken, but habits strengthen, with age."
+58,become wet,nureru,濡れる,"それが濡れている
+That is wet."
+59,begin,hajimaru,始まる,"映画が始まります。
+The movie starts."
+60,believe,shinjiru,信じる,僕()は君()を信()じる。I believe you.
+61,"belittle, despise",mikubiru,みくびる,"その運転選手は決して相手をみくびるようなことはしない。
+The student insulted the teacher."
+62,"bend, twist",hineru,捻る,"体を捻ってから下までしゃがみます。
+After twisting your body, squat down."
+63,bite,kamu,噛む,"あなたの犬は噛む？
+Does your dog bite?"
+64,bloom,saku,咲く,"花は咲く。
+Flowers bloom."
+65,"blow, wipe",fuku,吹く,"風が吹く。
+The wind blows."
+66,"board, ride on",noru,乗る,バスに乗()りなさい。Take a bus.
+67,boast,ibaru,威張る,"彼はいつもいばりちらしています。
+He is always throwing his weight around."
+68,"borrow, rent",kariru,借りる,"ペン借りていい？
+Can I borrow your pen?"
+69,break,kowareru,壊れる,"シャワーが壊れた。
+The shower is broken."
+70,breathe,koukyuu suru,呼吸する,"酸素は私たちが呼吸すると肺の中に取り込まれる。
+Oxygen is taken into our lungs when we breathe."
+71,"break, cut off, expire",kireru,切れる,"お茶が切れています。
+We’ve run out of tea."
+72,build,tateru,立てる,"誰が立てたのですか。
+Who built it?"
+73,burn,yakeru,焼ける,"焼けるように熱い。
+It is broiling hot."
+74,buy,kau,買う,"これを買います。
+I’ll buy this."
+75,call,yobu,呼ぶ,"警察を呼んで！
+Call the police"
+76,call (phone),denwa suru,電話する,"後で電話して!
+Call me later!"
+77,"can, be able",dekiru,出来る,"ボブは料理ができる。
+Bob can cook."
+78,care,ki wo tsukeru,気を付ける,"お体にお気を付けください。
+Please take care of yourself."
+79,"care about, mind",kamau,構う,"どっちでも構いません。
+It doesn’t matter."
+80,carry,hakobu,運ぶ,これを運んでください。Carry this for me.
+81,carry on one’s shoulders,katsugu,担ぐ,"彼は肩に銃を担いだ。
+He carried a rifle on his shoulder."
+82,"catch, hold (between two things)",hasamu,挟む,ドアに指をはさみました。I caught my finger in the door.
+83,"celebrate, congratulate",iwau,祝う,"七夕は七月に祝う。
+We celebrate the Star Festival in July."
+84,change,kaeru,変える,老人が考えを変えるのは難しい。 It is hard for an old man to change his way of thinking.
+85,change,kawaru,変わる,"流行はすぐ変わります。
+Fashions change quickly."
+86,"chase, drive away",ou,追う,あの車を追ってくれ。Follow that car.
+87,chatter,shaberu,喋る,僕たちの計画を誰にもしゃべるな。 Don’t mention our plan to anybody.
+88,"check, investigate",shiraberu,調べる,"私はその事件を調べた。
+I looked into the incident."
+89,chew,kamu,噛む,"食物をよくかみなさい。
+Chew your food well."
+90,"choose, select",erabu,選ぶ,"これを選びます。
+This is my choice"
+91,"clash, disagree",kuichigau,食い違う,"この点で私たちの意見が食い違うのは確かだ。
+It is on this point that our opinions differ."
+92,"clear up, tidy up",hareru,晴れる,空が晴れた。The sky has become clear.
+93,climb,noboru,登る,"猿は木に登る。
+Monkeys climb trees."
+94,"close, be closed",shimaru,閉まる,"ドアが閉まるの聞こえた。
+I heard the door close."
+95,"collapse, cave in",kuzureru,崩れる,"壁が地震で崩れた。
+The wall gave way in the earthquake."
+96,come,kuru,来る,"来られますか。
+Can you come?"
+97,"come off, go wide",hazureru,外れる,"彼の話は要点をはずれている。
+His talk is off the point."
+98,"come untied, loose",hodokeru,解ける,"靴紐が解けていますよ。
+Your shoes are untied."
+99,comfort,nagusameru,慰める,"私は彼女を慰めることができる。
+I can comfort her."
+100,command,iitsukeru,言いつける,"彼は私にそれをするように言いつけた。
+He told me to do it."
+101,commute,kayou,通う,"兵庫大学に通っています。
+I go to Hyogo University."
+102,compare,kuraberu,比べる,"ロンドンは東京に比べて小さい。
+London is smaller than Tokyo."
+103,complain,monku wo iu,文句を言う,"文句を言うな。
+Don’t complain."
+104,concentrate,korasu,凝らす,"彼は息を凝らしてその光景を見つめていた。
+He was watching the scene with breathless interest."
+105,"connect, fasten",tsunagu,繋ぐ,彼は犬を木につないだ。 He tied the dog to a tree.
+106,contact,renraku suru,連絡する,"手紙で連絡してください。
+Please contact me by letter."
+107,continue,tsuzukeru,続ける,ぜひ練習()を続()けなさい。Do keep practicing!
+108,"continue, follow",tsuzuku,続く,吹雪が続いた。The snowstorm continued.
+109,cook,ryouri suru,料理する,"今晩は私が料理します。
+I’ll cook for you tonight."
+110,"cool, refridgerate",hiyasu,冷やす,"頭を冷やせよ。
+Calm down."
+111,cool down,hieru,冷える,"今夜は冷えるでしょう。
+It will cool down tonight."
+112,count,kazoeru,数える,"３０まで数えなさい。
+Count up to thirty."
+113,cross,wataru,渡る,"通りを渡れ。
+Cross the street."
+114,"cross, pass, move ahead",kosu,越す,"彼は４０歳を越している。
+He is past forty."
+115,"crush, smash",kudaku,砕く,愛は人の心を砕くこともできるのさ。 But love can break your heart.
+116,cry,naku,鳴く,鳥は鳴く。Birds sing.
+117,cut,kiru,切る,"それを半分にきりなさい。
+Cut it in half."
+118,dance,odoru,踊る,"私も踊るのが好きです。
+I like dancing too."
+119,date,tsukiau,付き合う,"君達はいつからつきあっているのですか。
+How long have you been dating?"
+120,"decay, go bad, be depressed",kusaru,腐る,"牛乳が腐った。
+The milk has gone bad."
+121,"deceive, lie",itsuwaru,偽る,"彼は年齢を偽った。
+He lied about his age."
+122,"decide, choose",kimeru,決める,"決めました。
+I made my decision."
+123,"decide, establish",sadameru,定める,それは法律が定めていることである。It is what the law ordains.
+124,"decorate, display",kazaru,飾る,"話はかわりますが。
+To change the subject."
+125,"decrease, reduce",heru,減る,"この町の人口は減った。
+The population of this city has decreased."
+126,defeat,makasu,負かす,"チェスで人を負かす。
+Beat a person at chess."
+127,deliver,haitatsu suru,配達する,"日曜日に配達していますか。
+Do you deliver on Sundays?"
+128,depend on,tayoru,配達,"に頼るな。
+Don’t rely on him."
+129,describe,iiarawasu,言い表す,その物体がどんな物か言い表す事が出来ますか。Can you describe the object?
+130,"destroy, break down",kuzusu,崩す,"酒で彼は身を崩した。
+Drink brought about his downfall."
+131,"destroy, ruin",horobosu,滅ぼす,彼は酒で身を滅ぼした。Drinking was his ruin.
+132,die,shinu,死ぬ,"退屈で死にそうだ。
+I am bored to death."
+133,dig,horu,掘る,"彼は穴をほった。
+He dug a hole."
+134,Discuss,hanashiau,話し合う,虚心坦懐に話し合った。We talked quite frankly.
+135,"dislike, hate",iyagaru,嫌がる,"猫はぬれるのを嫌がる。
+Cats dislike being wet."
+136,"divide, separate",wakeru,忘ける,それを３人の間で分けよ。Divide it among the three.
+137,divorce,rikon suru,離婚する,どちらかといえば彼とは離婚したい。
+138,do,suru,する,ログアウトするんじゃなかったよ。 I shouldn’t have logged off.
+139,do,yaru,やる,やりますか。Will you do it?
+140,do your best,ganbaru,頑張る,"彼は一生懸命がんばる。
+He tries hard."
+141,download,daunro-do suru,ダウンロードする,"このプログラムを持っていないならば、今ダウンロードすることができます。
+If you do not have this program, you can download it now."
+142,"doubt, suspect",utagau,,疑う余地はない。There is no room for doubt.
+143,draw,kaku,描く,"彼はよく風景を描く。
+He often paints landscapes."
+144,drink,nomu,飲む,"コーヒーを飲むの？
+Do you drink coffee?"
+145,drive,untensuru,する,"安全運転してね。
+Drive safely."
+146,dry,kawakasu,運転,"どうして髪を乾かしているの。
+Why are you drying your hair?"
+147,"dry, air",hosu,干す,蒲団を干して下さい。Air the futon.
+148,eat,taberu,食べる,"食べたの？
+Have you eaten?"
+149,edge forward,nijiru,,"彼女のドレスはにじの色のほとんどがそろっている。
+Her dresses show most of the hues of the rainbow."
+150,email,me-ru suru,メールする,"後でちゃんと調べてメールする。
+I will email you after I check it thoroughly."
+151,"embrace, hug",daku,抱く,"彼は彼女をしっかりと抱いた。
+He held her tightly."
+152,encourage,hagemasu,励ます,"僕が彼を励ましに行こう。
+I will go to encourage him."
+153,end,owaru,終わる,"いつ終わるの？
+When’s it over?"
+154,"enjoy, have fun",tanoshimu,楽しむ,"楽しんでね。
+Have a good time."
+155,enter,hairu,入る,お入りください。Come in.
+156,"excel, be excellent, be superior",sugureru,優れる,優れたコンピューターでもチェスではあなたを負かせない。 Even a good computer cannot beat you at chess. ▾
+157,exercise,undousuru,運動する,"毎日運動するようにする。
+Exercise every day."
+158,exchange,torikaeru,取り換える,彼らは欠陥テレビを新しいのと取りかえた。 They replaced the defective TV with a new one.
+159,expect,kitai suru,期待する,"彼におおいに期待している。
+I expect a lot from him."
+160,experience,me ni au,目にあう,"ひどい目にあった。
+I had a terrible experience."
+161,explain,setsumei suru,説明する,"詳しく説明してください。
+Please explain in detail."
+162,"extract, take out",dasu,出す,"金を出しなさい。
+Get out your money."
+163,"face, turn/head toward",mukau,向かう,"彼は家に向かった。
+He made for home."
+164,fail,shippai suru,失敗する,"彼は多分失敗するだろう。
+He will probably fail."
+165,fall asleep,nemuru,眠る,"彼は眠っている。
+He’s asleep."
+166,fall down,korobu,転ぶ,"赤ん坊はよく転ぶ。
+Babies often fall down."
+167,"fall down, collapse",taoreru,倒れる,木が倒れた。The tree fell down.
+168,fall from the sky,furu,降る,"雪が降った。
+It snowed."
+169,fall in love,horeru,惚れる,"君に惚れてる。
+I’m falling in love with you."
+170,"fall, drop, hang",sagaru,下がる,"温度が下がる。
+The temperature falls."
+171,"fall, go down",ochiru,落ちる,"葉が落ちた。
+The leaves fell."
+172,fart,onara wo suru,おならをする,"おばあさんは必ずおならをする。
+The old lady is bound to fart."
+173,fear,kowagaru,怖がる,彼女は吠える犬を怖がる。 She is afraid of barking dogs.
+174,"fear, be in awe of",osoreru,恐れる,"恐れるな。
+Don’t be afraid."
+175,feel depressed,meiru,めいる,"雨の日は気がめいるよ。
+Rainy days make me depressed."
+176,"feel depressed, sink",shizumu,沈む,"船が沈んでいく。
+The ship is sinking."
+177,feel hot,hoteru,,顔がほてります。My cheeks burn.
+178,"feel, sense",kanjiru,感じる,生を感じる。 I feel alive.
+179,fiddle with,ijiru,,"その鍵をいじるな！
+Don’t play with that key!"
+180,"fight against, struggle against",tatakau,闘う,"病気と闘う。
+Struggle with disease."
+181,find,mitsukeru,見つける,"これから見つけます。
+I’ll find one later."
+182,finish,owaru,終わる,
+183,"finish, tidy up, clean",katazukeru,片付ける,テーブルを片付()けなさい。Clear off the tabl
+184,fish,tsuru,釣る,彼は魚を３匹釣った。He caught three fish.
+185,"float, come to mind",ukabu,,すばらしいアイデアがうかんだよ。I’ve got a splendid idea.
+186,"flow, be called off",nagareru,流れる,"涙が流れている。
+Tears flow down."
+187,fold,tatamu,畳む,"布団をたたみなさい。
+Fold up your futon."
+188,forget,wasureru,忘れる,忘れないでください。Please do not forget.
+189,"forgive, allow,",yurusu,許す,"あなたが後悔しているのなら許してあげよう。As you are sorry, I’ll forgive you."
+190,"form a line, equal",narabu,並ぶ,"並んでお待ちください。
+Wait in line, please."
+191,"gather, assemble",atsumaru,集まる,"明日集まりましょう。
+Let’s get together tomorrow"
+192,"gaze, look up, respect, fan oneself",aogu,仰ぐ,"空を仰ぎ見る。
+Look up to the skies."
+193,get,eru,得る,彼は即答を得た。 He won an immediate response.
+194,get angry,okoru,怒る,"まあまあ、そう怒らないでくださいな。 Now, please don’t get so angry."
+195,get changed,kikaeru,着換える,私はもう着替えました。 I have already changed my clothes.
+196,get cloudy,kumoru,曇る,曇ってきた。 It’s getting cloudy.
+197,get fat,futoru,太る,"彼女は太っているとはいえないまでも大柄な人だ。 She is large, not to say fat."
+198,"get fat, grow fertile / cross over, exceed",koeru,こえる,彼女は少なくとも４０才は越えていると思う。 I think she’s over 40 years old.
+199,get in,iru,入る,補足情報には、副詞や副詞のはたらきをするものが入ります。 Supplementary information includes adverbs and things that function as adverbs. ▾
+200,"get off, go down",oriru,降りる,姫路駅で降りなさい。 Get off at Himeji Station
+201,get tired,tsukareru,疲れる,目が疲れやすいです。 My eyes get tired very easily.
+202,get up,okiru,起きる,早く起きろ。 Get up early
+203,"get used to, become familiar with",nareru,慣れる,夜更かしになれている。 I’m used to staying up late.
+204,get warm,atatamaru,暖まる,"味噌汁が温まった。
+The miso soup has heated up."
+205,give,ageru,あげる,あなたは時には妹さんにおこづかいをあげますか。Do you sometimes give your sister money?
+206,give (the giver is not the speaker),kureru,くれる,"「なあ、そこの姉さん」「え？」「ちょっと相談に乗ってくれないか？」 “Say, you, the lady over there.” “Eh?” “Could you give me a bit of advice?”"
+207,"give back, return (something to someone)",kaesu,返す,必ず明日その本を返しなさい。 Don’t fail to return the book tomorrow.
+208,give up all thoughts of;  to abandon,omoikiru,,彼女の事が思い切れない。 I can’t forget her.
+209,"glare at, keep an eye on",niramu,睨む,彼はにくらしげに彼女をにらんだ。 He stared at her with hatred.
+210,"gnaw, nibble",kajiru,齧る,犬は肉を骨からかじりとった。 The dog bit meat off the bone.
+211,go,iku,行く,幼なじみが春から大阪の大学に行くらしい。 Apparently an old friend of mine is going to a university in Osaka in Spring. ▾
+212,"go forward, advance",susumu,進む,エイズウイルスの拡散は恐るべき速さで進んでいる。 The speed of the spread of AIDS is horrifyingly fast.
+213,"go mad, be out of order",kuruu,狂う,私の時計は狂っている。 My watch is broken.
+214,go out,deru,出る,"月も出ていない闇夜だった。 It was a dark night, with no moon."
+215,"go out, leave home",dekakeru,出かける,旅に出かけたい気がする。 I feel like going on a trip.
+216,go round,mawaru,回る,葉が空中でぐるぐる回っていた。 Leaves were whirling in the air.
+217,"go up, rise",agaru,上がる,"幕があがった。
+The curtain rose"
+218,grasp,nigiru,握る,彼女はロープをしっかりと握った。 She took a strong hold on the rope. ▾
+219,"greet, meet, welcome",mukaeru,迎える,友人を迎えに駅まで行ってきたところだ。 I’ve been to the station to meet a friend.
+220,grow,haeru,生える,"植物が生える。
+Plants grow."
+221,grow dark (sunset),kureru,暮れる,"冬の日は速く暮れる。
+In the winter, days are shorter."
+222,grow old,toshitoru,歳取る,"みんな死んでいくな。俺も歳取るはずだ。
+Everyone dies. I’ll grow old to"
+223,grow quiet,shizumaru,静まる,"嵐は静まった。
+The storm has died down."
+224,grow thick,shigeru,茂る,こんもりと茂った木々の葉を通して日光が差し込んだ。 The sunshine penetrated the thick leaves of the trees.
+225,"grow up, be raised",sodatsu,育つ,彼女は金持ちの家庭に育った。 She was brought up in a rich family.
+226,grumble,guchiru,,「うちの愛妻がケチでさー」「のろけてる？愚痴ってる？」 “My wonderful wife is so stingy that …” “You boasting? Or complaining?”
+227,hand over,watasu,渡す,"かれに財布を渡して。
+Just give him the wallet."
+228,have,aru,有る,"緑色のはありますか。
+Do you have any in green?"
+229,"have, hold, own",motsu,持つ,"胃がもたれます。
+My stomach feels heavy."
+230,hear,kiku,聞く,"聞いてるの。
+Do you hear me?"
+231,help,tasukeru,助ける,"助けてください。
+I need help."
+232,help,tasukeru,助ける,"ワインは消化を助ける。
+Wine helps digest food."
+233,help,tetsudau,手伝う,"彼女は彼を手伝った。
+She helped him."
+234,hide (oneself),kakureru,隠れる,"トムはテーブルの下に隠れた。
+Tom hid under the table."
+235,hide (something),kakusu,隠す,"ベッドの下に隠さないでよ。
+Don’t hide under the bed."
+236,hint,honomekasu,仄めかす,"彼女は我々と行きたいのだとほのめかした。
+She implied that she would like to come with us."
+237,"hire, employ",yatou,雇う,"あなたは彼を雇うことができる。
+You can employ him."
+238,"hold (in your arms), have",kakaeru,抱える,"トムは大きな問題を抱えている。
+Tom has a big problem."
+239,hurry,isogu,急ぐ,"急いで！
+Step on it!"
+240,"hurt, injured",itameru,痛める,"ひじを痛めました。
+I hurt my elbow."
+241,imagine,souzou suru,想像する,"月の上にいると想像しなさい。
+Imagine yourself to be on the moon."
+242,increase,fueru,増える,"体重が増えています。
+I’m gaining weight."
+243,"indicate, point out",shimesu,示す,"雪は冬の到来を示す。
+Snow indicates the coming of winter."
+244,"inflict pain, torment",kurushimeru,苦しめる,"あなたは虚言で私は苦しめる。
+Your lies pain me."
+245,"invite, tempt",sasou,誘う,彼女は中に入るよう誘った。She invited him in.
+246,jeer at,yajiru,やじる,彼らは彼の提案をやじった。They hooted at his suggestion.
+247,joke,jōdan o iu,冗談を言う,彼はそれについて冗談を言った。 He made a joke about it.
+248,"jump, fly",tobu,飛ぶ,鳥は飛ぶ。Birds fly.
+249,"Keep (a pet), raise, rear",kau,飼う,彼女は猫を飼っている。その猫は白い。 She has a cat. The cat is white
+250,kick,keru,蹴る,彼は私の横っ腹を蹴った。 He kicked my side.
+251,kill,korosu,殺す,"喫煙は人を殺す。
+Smoking kills."
+252,kiss,kisusuru,キスする,"彼は彼女にきづかれないようにさっとキスした。
+He stole a kiss from her."
+253,know,shiru,知る,知らない。I don’t know.
+254,land,chakuriku suru,着陸する,"その飛行機は十時に飛行場に着陸します。
+The plane will land at the airport at ten o’clock."
+255,laugh,warau,笑う,妹は心ゆくまで笑った。 My sister laughed to her heart’s content.
+256,lay face down,fuseru,伏せる,"床に伏せろ！
+Get down on the floor!"
+257,lead,tsureru,連れる,"友達を連れてきなさい。
+Bring along your friend."
+258,"leak, disclose",morasu,漏らす,彼女はその秘密を友達にもらした。 She babbled out the secret to her friend.
+259,"leak, escape",moreru,漏れる,"ニュースがもれた。
+The news leaked out."
+260,"lean towards, tilt",katamuku,傾く,"この家は傾いている。
+This house is leaning to one side."
+261,learn,manabu,学ぶ,"学びます。
+I will learn."
+262,learn,narau,習う,"チェコ語を習っている。
+I’m learning Czech."
+263,"leave behind, save",nokosu,残す,"犯人は足跡を残していた。
+The criminal left footprints."
+264,"left over, remain",nokoru,残る,"傷あとが残りますか。
+Will I have a scar?"
+265,lend,kasu,貸す,"金を貸す。
+I lend money."
+266,lick,nameru,舐める,"猫は足の先をなめていた。
+The cat was licking its paws."
+267,lie,uso wo iu,うそを言う,"うそを言うな。
+Don’t you lie!"
+268,limit,kagiru,限る,"ただしかっこいい男に限る。
+However that’s only for handsome men."
+269,"line up, list, arrange in order",naraberu,並べる,"我々は大きさの順に並べた。
+We arranged the books according to size."
+270,live,kurasu,暮らす,"裕福に暮らす。
+Live in affluence."
+271,"live, reside",sumu,住む,現在は舞子に住んでいません。 I don’t live in Maigo now.
+272,look,miru,見る,"私を見て。
+Look at me."
+273,"look upon, consider",minasu,見做す,彼女は彼を間抜けな人間とみなした。 She regarded him as stupid
+274,lose,makeru,負ける,"負けるな。
+Don’t give in."
+275,lose weight,yaseru,,少しやせました。I’ve lost a little weight.
+276,"lose, drop",otosu,落とす,鉛筆を落としましたよ。You dropped your pencil.
+277,"lose, part with",ushinau,失う,失うものは何もない。I won’t lose anything.
+278,"lose, remove",nakusu,無くす,"時計をなくしました。
+I lost the watch."
+279,love,aisuru,愛する,"愛してます。
+I love you."
+280,"love, be affectionate, tender",kawaigaru,可愛がる,"母親は往々にして子供をかわいがり過ぎる。
+Mothers often pamper their children."
+281,"lower, hang",sageru,下げる,"手を下げろ。
+Put your hand down."
+282,make,tsukuru,作る,バターはクリームで作る。
+283,make out,ichaicha suru,イチャイチャする,街中でイチャイチャするカップル見たら腹立ちませんか？ Doesn’t it irritate you to see couples making out around town?
+284,make a mistake,machigaeru,間違える,"間違えちゃった。
+I made a mistake."
+285,make money,kasegu,稼ぐ,"彼はおおいに稼ぐ。
+He earns a great deal."
+286,make noise,sawagu,騒ぐ,"そんなに騒ぐな。
+Don’t make so much noise."
+287,make;  to manufacture;,koshiraeru,拵える,長いわずらいで彼は借金をこさえた。 His long sickness ran him into debt.
+288,marry,kekkon suru,結婚する,"彼女と結婚したい。
+I want to marry her."
+289,"match, fit",au,合う,"目と目が合った。
+Their eyes met."
+290,"mature, ripen",jukusu,熟す,"りんごが熟している。
+The apples are ripe."
+291,"measure, plan, plot",hakaru,計る,体温を計る。Take one’s temperature.
+292,meet,au,会う,"来月会いしましょう。
+I’ll see you next month."
+293,"melt, dissolve, come untied",tokeru,溶ける,"砂糖は水に溶ける。
+Sugar dissolves in water."
+294,mess up,dojiru,どじる,"あう～、あたしったらまたドジっちゃいました。 Ahh, silly me, I’ve messed up again."
+295,miss,hazusu,外す,"的を外してしまった。
+I’ve missed my aim."
+296,mix,mazeru,混ぜる,"牛乳と卵を混ぜなさい。
+Blend milk and eggs together."
+297,move,ugoku,動く,地面が動いた。The ground rocked.
+298,"move, operate",ugokasu,動かす,信仰は山をも動かす。Faith can move mountains.
+299,muff lines,tochiru,,この新人のアナウンサー、さっきからとちってばかりいる。This new announcer keeps stumbling.
+300,multiply,kakeru,かける,"さんかけるさんはきゅう。
+Three times three is nine"
+301,need,iru,要る,昼食はいらない。 I don’t want lunch.
+302,notify,shiraseru,知らせる,"後で知らせるよ。
+I’ll let you know later."
+303,"occur, happen",okoru,起こる,"いつ起こったの？
+When did this occur?"
+304,open,akeru,"開ける
+あける","目を開けてください。
+Open your eyes, please."
+305,"open, hold (an event, party etc)",hiraku,開く,"本を開くな。
+Don’t open your book."
+306,order (items at restaurant),chuumonsuru,注文する,"じゃあ注文します。
+OK, I’ll order it."
+307,overflow,minagiru,,"町は活気でみなぎっていた。
+The town was humming with activity."
+308,"overlook, let pass",minogasu,見逃す,"見逃すことはありませんよ。
+You can’t miss it."
+309,"overthrow, knock down",taosu,倒す,トムは彼を殴り倒した。Tom knocked him down.
+310,paint,nuru,塗る,壁を塗っている人は私のお父さんだ。 The man painting the wall is my father.
+311,"panic, be flustered",awateru,慌てる,"彼らは非常にあわてていた。
+They were very confused."
+312,"parody, twist",mojiru,,その取っ手を右にねじると箱は開きます。 Twist that knob to the right and the box will open.
+313,"part, separate from, be divided, divorced",wakareru,別れる,トムはガールフレンドと別れた。Tom broke up with his girlfriend.
+314,"pass by, drop in",yogiru,,恐ろしい考えが私の心をよぎった。A fearful thought entered my mind.
+315,"pass, exceed",sugiru,過ぎる,しかし回収時間が早すぎるため、ゴミの日に出すことが難しいです。 Moreover it’s difficult to get rubbish out for garbage day because the collection time is too early.
+316,pay,harau,払う,私が払います。I’ll pay.
+317,perish,horobiru,滅びる,"肉体は滅びるが霊魂は不滅である。A man’s body dies, but his soul is immortal."
+318,"persuade, make advances (to a woman)",kudoku,口説く,それ、わたしを口説いてるの？ Are you making a pass at me?
+319,pester for,sebiru,,"私にお金をせびらないでくれ。
+Don’t pester me for money."
+320,"photograph, copy, reflect",utsusu,,彼は友達のノートを写すのに忙しかった。He was busy copying his friend’s notebook.
+321,"pick up, find",hirou,拾う,彼らは木の実を拾い集めている。 They are gathering nuts.
+322,"pick, dig out",hojiru,,鼻をほじるな。Don’t pick your nose.
+323,"pile up, accumulate",tsumoru,積もる,雪は２メートル積もった。 Snow fell two meters deep.
+324,"pile up, repeat",kasaneru,重ねる,"彼は悪事を重ねた。
+He committed one crime after another."
+325,pinch,tsuneru,,彼女は私の腕をきつくつねった。 She pinched my arm sharply.
+326,plan,keikaku suru,計画する,鈴木氏はいろいろと説得して息子の留学計画をやめさせた。 Mr Suzuki persuaded his son to drop his plan to study abroad.
+327,"plan, scheme",kuwadateru,企てる,投資家グループは企業買収を企てています。 An investors’ group is attempting a leveraged buy-out of the firm.
+328,plant,ueru,植える,彼女は庭でバラを植えている。 She’s in the garden planting roses.
+329,play,asobu,遊ぶ,"遊ぶよりはまず仕事。
+Business before pleasure."
+330,play (string instrument),hiku,弾く,妹の方が私よりも上手にピアノを弾けます。 My sister can play the piano better than I can.
+331,play with feelings,moteasobu,もて遊ぶ,"彼女の愛情をもて遊ぶな。
+Don’t toy with her affections."
+332,"plot, scheme",takuramu,企む,彼は何か企んでいるように思える。 I think he is planning something.
+333,"pluck, pick, tear",mushiru,毟る,ぐはっ！？俺の貴重な頭髪を、むしるな！ O-oi!? Don’t rip off my precious hair
+334,"point out, sting, stab",sasu,刺す,蚊が刺した。A mosquito just bit me.
+335,polish,migaku,磨く,彼女の車はぴかぴかに磨いてある。 Her car has a nice polish.
+336,"postpone, extend",nobasu,のばす,彼女は滞在を５日間延ばした。 She extended her stay by five days.
+337,praise,homeru,褒める,"みんないつもトニーをほめる。
+Everyone always speaks well of Tony."
+338,"pray, wish for",inoru,祈る,"みんなで祈ろう。
+Let’s all pray together."
+339,procrastinate,saki no boshi ni suru,さきのばしにする,仕事が多いので旅行はのでさきのばしにしている。 I have so much work to do that I’m procrastinating.
+340,"produce, give birth, lay eggs",umu,産む,"鳥は卵を産む。
+Birds lay eggs."
+341,"profit, make money",mokeru,儲ける,"彼はかなりの金をもうけた。
+He has earned a lot of money."
+342,protect,mamoru,守る,"彼らは祖国を守った。
+They defended their country."
+343,prove,shoumei suru,証明する,"この事実は彼の無罪を証明している。
+These facts prove that he is innocent."
+344,pull,hiku,引く,"潮の全てはひく。
+Every tide has its ebb."
+345,"punch, hit",naguru,殴る,"彼は彼女を殴った。
+He slapped her."
+346,"push, press",osu,押す,"押しボタンを押して下さい。
+Push the button, please."
+347,put,oku,置く,"ここに置いていいですか？
+May I put it here?"
+348,"put in, let in",ireru,入れる,"中に入れてよ。
+Let me in."
+349,"put on top off, put on board",noseru,のせる,"マトと玉ねぎをのせてください。
+I’ll have tomato and onion."
+350,"put on, wear (on feet or legs – trousers/shoes etc)",haku,履く,"靴を履いて。
+Put on your shoes."
+351,reach,todoku,届く,"郵便が届いた。
+The mail has arrived."
+352,"reach, extend to",oyobu,及ぶ,"彼女は母親にはとても及ばない。
+She is not anything like her mother."
+353,read,yomu,読む,"本を読んでいるところです。
+I am reading a book."
+354,rebuke,najiru,,"彼らはお互いにすぐなじんだ。
+They soon became quite accustomed to each other."
+355,"receive, accept",uketoru,受け取る,報酬を受け取るのを彼のプライドが許さなかった。 He was too proud to accept any reward.
+356,"receive, get",morau,もらう,うん。前の先生に紹介してもらって、転院したの。 Yes. She got an introduction from her previous doctor and transferred to another hospital.
+357,recognize,mitomeru,認める,我々は彼の才能を認めている。We appreciate his talent.
+358,"reduce, decrease",herasu,減らす,彼女は自分の経費を減らそうとしている。 She tried to lower her expenses.
+359,"refuse, decline",kotowaru,断わる,彼女は彼の求婚を断った。 She turned down his proposal.
+360,"regret, be reluctant",oshimu,惜しむ,彼の死は惜しんでも余りあるものだ。 We cannot grieve over his death too deeply.
+361,remember,omoidasu,思い出す,ああ思い出したぞ。Now I remember.
+362,"remember, learn",oboeru,覚える,"覚えていない。
+I don’t remember."
+363,"remove, unfasten",hazusu,外す,"それから彼はメガネをはずした。
+He took off his glasses after that."
+364,"repair, cure",naosu,直す,"誤りを直せ。
+Correct errors."
+365,repeat,kurikaesu,繰り返す,"歴史は繰り返す。
+History repeats itself."
+366,"request, order, ask favour",tanomu,頼む,"頼むよー。
+I’m begging you."
+367,"request, seek, buy, ask",motomeru,求める,"誰でも幸福を求める。
+Everyone seeks happiness."
+368,"rescue, save",sukuu,救う,彼女は自分の子供達が溺れるのを、救った。 She saved her children from drowning.
+369,resemble,niru,似る,"メアリーは父親似だ。
+Mary takes after her father."
+370,respect,sonkei suru,尊敬する,僕は彼のような奴を尊敬したくない。 I don’t want to respect a man like him.
+371,rest,yasumu,休む,休みたいですか。Do you want to rest?
+372,"restrain, control",osaeru,抑える,"彼は怒りを抑えた。
+He forbore his anger."
+373,return,kaeru,帰る,"家に帰る。
+I’m going home."
+374,"return, go back",modoru,戻る,"すぐに戻ります。
+I’ll return immediately."
+375,"return, put back, vomit",modosu,戻す,"それを私に戻して下さい。
+Bring it back to me."
+376,review,fukushuu suru,復習する,"第５課を復習しましょう。
+Let’s review Lesson 5."
+377,ridicule,azakeru,,"彼は私の努力をあざけった。
+He mocked my efforts."
+378,"ripen, bear fruit",minoru,実る,"彼の努力が実った。
+His efforts bore fruit."
+379,run,hashiru,走る,列車が橋の上を走っているのを見てごらん。 Look at the train going over the bridge.
+380,"run away, escape",nigeru,逃げる,"逃げるな。
+Don’t you go away."
+381,"save money, put aside, store",takuwaeru,蓄える,"彼は富を蓄えた。
+He has accumulated wealth."
+382,"save, store, accumulate",tameru,ためる,原住民は雨水をためて飲料水にしている。 The natives collect and store rain-water to drink.
+383,say,iu,言う,「あばたもえくぼ」って言うからね。 They say love is blind
+384,"scold, tell off",shikaru,叱る,父は私が時間を守らないと言って叱った。 My father scolded me for not being punctual.
+385,scream,nakisakebu,泣き叫ぶ,"怪我をしないうちから泣き叫ぶな。
+Don’t scream before you get injured."
+386,search,sagasu,探す,何を探しているの？What are you looking for?
+387,search for,sagasu,探す,コートを探してます。 I’m looking for a coat.
+388,see,miru,見る,我々を見てにたりと笑った。 He grinned broadly at us.
+389,sell,uru,売る,母は自分の大切なものをすべて売ってしまった。 My mother has sold everything that is dear to her
+390,"send, see off",okuru,送る,駅まで車で送ってくれませんか。 Could you give me a lift to the train station?
+391,"sense, realize, notice",kizuku,気付く,彼は私がいることに気づいた。 He noticed my presence.
+392,"separate from, leave",hanareru,離れる,なぜ頭から離れない。 Why do I even care?
+393,shine,teru,照る,"降ろうが照ろうが、私は行く。 I will go, rain or shine"
+394,"shine, glitter",hikaru,光る,凍結した道路が日光を浴びてまばゆく光った。 The icy road sparkled in the sunlight.
+395,"shine, sparkle",kagayaku,輝く,夜は太陽が輝かない。 The sun doesn’t shine at night.
+396,shoot,utsu,,"動くな撃つぞ。Don’t move, or I’ll shoot you."
+397,show,miseru,見せる,"料金表を見せて下さい。 Show me a list of your rates, please."
+398,shut,shimeru,閉める,忘れずに安全ベルトを閉めなさい。 Don’t forget to fasten your safety belts.
+399,sing,utau,歌う,はい。これならそらで歌えます。 Yes. This one I can sing from memory.
+400,sightsee,kankou suru,観光する,"今日は休んで明日観光します。
+We’ll rest today, but sightsee tomorrow."
+401,sit,suwaru,座る,"授業の終わり近くになると、教師が一言も「静かにしなさい」「座りなさい！」と言わないにもかかわらず、自然と子どもたちは自分の席に戻り静かになる。 As the lesson comes to an end, even if the teacher doesn’t say a word of “be quiet”, “sit down!,” the children naturally return to their seats and quieten down."
+402,sit in (western style),koshikakeru,腰掛ける,彼女は腰掛けて足を組んだ。 She sat down and crossed her legs.
+403,skip school/class,saboru,サボる,"彼らはいつも学校をサボっています。
+They skip school all the time."
+404,"sleep, go to bed",neru,寝る,"寝るのが好き。
+I like sleeping."
+405,slap,hirateuchi suru,平手打ちする,"その子はお行儀悪くして母親に平手打ちされた。
+That kid got a slap from his mother for being rude."
+406,slip,suberu,滑る,"彼は氷の上ですべった。
+He slipped on the ice."
+407,smash,kowasu,壊す,"誰がこれを壊したのですか？
+Who broke this?"
+408,smoke,suu,吸う,"私はタバコを吸う。
+I smoke cigarettes."
+409,sneeze,kushumi suru,くしゃみする,"うちの犬がくしゃみするのは見たことあるけど、猫は一度もないな。
+I’ve seen my dog sneeze but never my cat"
+410,"solve, untie",toku,,"この問題は解くのが難しい。
+This problem is difficult to solve."
+411,spill,kobosu,こぼす,"私は床に卵をこぼした。
+I spilled egg on the floor."
+412,"spill, overflow",koboreru,こぼれる,"ミルクが煮えこぼれた。
+The milk boiled over."
+413,"spread out, lay",shiku,敷く,"床にカーペットを敷いた。
+They laid the carpet on the floor."
+414,"spread, become popular",hiromaru,広まる,"ニュースはすぐに広まった。
+The news quickly spread."
+415,"spread, make popular",hiromeru,広める,"旅行は人の視野を広める。
+Travel broadens one’s horizons."
+416,"stand guard, keep lookout",miharu,見張る,"彼を見張れ。
+Keep watch on him."
+417,stand prepared,kamaeru,構える,"気長に構える必要があります。
+You have to be patient."
+418,stand up,tatsu,立つ,"立ちなさい。
+Stand up!"
+419,start,hajimeru,始める,"では始めましょう。
+Then let us begin."
+420,steal,nusumu,盗む,"盗むのは悪いことだ。
+It is bad to steal."
+421,step on,fumu,踏む,彼は電車の中で、態と私の足を踏みました。 He trod on my foot on purpose in the train.
+422,"stick, put something on",haru,張る,封筒にもう１枚切手をはりなさい。Stick another stamp on the envelope.
+423,stop,tomaru,止まる,"ここで止まるな。
+Don’t stop here."
+424,stop talking,damaru,黙る,"黙ってろ。さもないと命はないぞ。 Hold your tongue, or you’ll be killed."
+425,"stop, give up, resign",yameru,止める,"喋るのをやめろ。
+Stop talking."
+426,strengthen,katameru,固める,"守りを固めろ！来るぞ！
+Tighten the defences! They’re coming!"
+427,strengthen,tsuyomeru,強める,"このビタミンは病気に対する抵抗力を強めます。
+This vitamin boosts your immune system from diseases."
+428,"strive, make every effort",hagemu,励む,彼は勉強に励んでいる。He is diligent in his study.
+429,stuff into/pack/fill,tsumeru,詰める,"バスの中ほどへ詰めて下さい。 Move into the bus, please!"
+430,subscribe,touroku,登録する,新しいメルマガに登録しました. I subscribed to a new email magazine.
+431,subtract/minus,sashihiku,差し引く,"はちひくいちはななです。
+Eight minus one is seven."
+432,succeed,seikou suru,成功する,"彼は必ず成功する。
+He is sure to succeed"
+433,suffer,kurushimu,苦しむ,"胃痛に苦しむ。
+I suffer from a stomach ache."
+434,"suggest, start talking",iidasu,言い出す,"これはだれかの言い出したことかい。
+Was this somebody else’s idea?"
+435,"suit, come true",kanau,適う,夢は叶った。Dreams came true.
+436,support,sasaeru,支える,彼女は彼が貧しいときも彼を支えるすばらしい配偶者だった。 She was an excellent spouse who stood by him through poverty.
+437,"surround, enclose",kakomu,囲む,彼女の家は白い垣根で囲まれている。 Her house is surrounded by a white fence.
+438,swim,oyogu,泳ぐ,彼は泳げる。He can swim.
+439,take,toru,取る,"メモを取りなさい。
+You should take notes."
+440,take (length of time),kakaru,掛かる,"何分かかりますか。
+How long is the ride?"
+441,take a shower,abiru,浴びる,"さっとシャワーを浴びた。
+She grabbed a shower."
+442,take charge of,hikiukeru,引き受ける,"がそれを引き受けます。
+I’ll see to it."
+443,"take off, remove (shoes, clothes)",nugu,脱ぐ,"コートを脱ぎなさい。
+Take off your coat."
+444,take off (plane),ririku suru,離陸する,"午後十時に離陸する
+take off at 10 PM"
+445,"take part in, affect",kakawaru,関わる,"私は関わっていない。
+I am not getting involved."
+446,talk,hanasu,話す,ジャックは英語を話す。Jack speaks English.
+447,"talk back, retort",iikaesu,言い換える,"それを他の言葉に言い換えなさい。
+Say it in another way."
+448,"teach, show",oshieru,教える,"教える事は学ぶ事である。
+Teaching is learning."
+449,"tear, break, defeat",yaburu,,彼は決して約束やぶらない。He never breaks his promise.
+450,"tease, make fun of",hiyakasu,冷やかす,人前で彼を冷やかすなんて君は意地悪だ。It is mean of you to ridicule him in public.
+451,"tell off, caution",imashimeru,戒める,"彼は息子の怠惰さを戒めた。
+He admonished his son for being lazy."
+452,"test, try, taste",tamesu,試す,"このソース試してみて。
+Try this sauce"
+453,thank,kansha suru,感謝する,"心から感謝します。
+I really appreciate it."
+454,think,kangaeru,考える,"考えてください。
+Please think it over."
+455,think,omou,思う,そう思います。I agree.
+456,Think of / come into your mind,omoitsuku,思いつく,"良いアイデアが思いついた。
+A good idea came to mind."
+457,throw,nageru,投げる,"ボールを投げてください。
+Please throw the ball."
+458,throw away,suteru,捨てる,"こにゴミを捨てるべからず。
+Don’t throw trash here."
+459,"tie, knot, make a contract",musubu,結ぶ,"靴の紐を結びなさい。
+Tie your shoelaces."
+460,"top, exceed",uwamawaru,上回る,"もちろん利潤は生産費を上回るべきです。
+Benefits of course should exceed the costs."
+461,"torment, bully",ijimeru,虐める,"彼は以前友達をいじめていた。
+He used to bully his friends."
+462,"torment, roast",ibiru,,"私をいびらないで。
+Don’t pick on me, please."
+463,touch,fureru,触れる,"手を触れるな。
+Don’t touch."
+464,touch or feel (physically),sawaru,触る,"それに触るな。
+Don’t touch it."
+465,transit,norikaeru,乗り換える,"乗り換えるのですか。
+Do I have to change trains?"
+466,travel,ryoukousuru,旅行する,"私はよく旅行します。
+I often travel."
+467,trick,damasu,騙す,"私を騙さないで下さい。
+Don’t deceive me."
+468,try,chōsen suru,挑戦する,スカイダイビングに挑戦したいのです。I’d like to try skydiving.
+469,turn,magaru,曲がる,"左へ曲がりなさい。
+Turn to the left."
+470,"turn off, erase",kesu,"消す
+けす","電気を消すな。
+Don’t turn off the light."
+471,"turn on, light",tsukeru,"点ける
+つける",ラジオをつけなさい。Turn on the radio.
+472,twist,nejiru,捩じる,その取っ手を右にねじると箱は開きます。 Twist that knob to the right and the box will open.
+473,"twist, distort",yojiru,,その取っ手を右にねじると箱は開きます。Twist that knob to the right and the box will ope
+474,understand,wakaru,分かる,分かる、分かる。I know what you mean.
+475,"unite, put together",kumu,組む,"私はテニスで彼女と組んだ。
+I partnered her in tennis."
+476,untie,hodoku,解く,"その問題を解くのは難しい。
+The problem is difficult to solve."
+477,use,tsukau,使う,"私がそれを使います。
+I use it."
+478,"use, operate",tsukau,使う,"私がそれを使います。
+I use it."
+479,"vanish, go out, be extinguished",kieru,消える,"頭痛が消えた。
+My headache has gone away."
+480,vomit/throw up,gero wo haku,ゲロをはく,"私は大変気分が悪い。ゲロをはきたいです。
+I feel very sick. I want to throw up."
+481,wait,matsu,待つ,"ちょっと待って。
+Wait a moment."
+482,wake (somebody) up,okosu,起こす,"彼女は彼を起こした。
+She woke him up."
+483,walk,aruku,歩く,"歩きましょうか。
+Shall we walk?"
+484,"want, desire",hoshigaru,欲しがる,"赤ん坊は母乳を欲しがる。
+A baby craves its mother’s milk."
+485,wash,arau,洗う,"足を洗いなさい。
+Wash your feet."
+486,"warm up, heat up",atatamaru,暖まる。,"この部屋はすぐに暖まる。
+This room will soon heat up."
+487,watch,miru,見る,"私はテレビを見る。
+I watch television."
+488,"watch, view",nagameru,眺める,星をながめるのは興味深()い。It is interesting to watch stars.
+489,wear,kiru,着る,"コートを着なさい。
+Put on your coat."
+490,"wear (on your head), put on",kaburu,被る,"彼女は帽子をかぶった。
+She put on her hat."
+491,win,katsu,勝つ,"どっちが勝ってるの？
+Who’s winning?"
+492,work,hataraku,働く,"彼女はよく働く。
+She works hard."
+493,work for,tsutomeru,勤める,"あなたはどこに勤めていますか。
+Where do you work?"
+494,"worry about, consider",kizukau,気遣う,"彼女は君の安否を気遣っているよ。
+She has anxiety for your safety."
+495,worship,matsuru,祀る,この記念碑は祖国に命を捧げた兵士を祭っている。 This monument is dedicated to the soldiers who gave their lives to their country.
+496,"wound, damage, harm",kizutsukeru,傷つける,他人を傷つけることはよくない。 It is bad to hurt others.
+497,wrap,tsutsumu,包む,美しい包装紙に包んでもらえますか。 Could you gift wrap it?
+498,write,kaku,書く,脚本を書いていて、行き詰まった時はどうする？ What do you do when you get writer’s block while writing a script?
+499,yawn,akubi wo suru,あくびする,"大あくびをして。
+Yawn a big long yawn."
+500,yell,donaru,怒鳴る,"私に怒鳴ったりしないでよ。
+Don’t yell at me."
