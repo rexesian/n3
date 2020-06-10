@@ -1,311 +1,63 @@
 Intransitive Verbs,Transitive Verbs
-"上
-あ
-がる: to rise","上
-あ
-げる: to raise"
-"集
-あつ
-まる: to gather","集
-あつ
-める: to collect"
-"高
-たか
-まる: to increase","高
-たか
-める: to increase"
-"伝
-つた
-わる: to spread, go around","伝
-つた
-える: to tell, inform"
-"終
-お
-わる: to finish, to end","終
-お
-える*: to finish, end"
-"変
-か
-わる: to change","変
-か
-える: to change"
+上がる: to rise,上げる: to raise
+集まる: to gather,集める: to collect
+高まる: to increase,高める: to increase
+"伝わる: to spread, go around","伝える: to tell, inform"
+"終わる: to finish, to end","終える: to finish, end"
+変わる: to change,変える: to change
 かかる: to take (resources),"かける: to spend, take (time)"
-"決
-き
-まる: to be decided","決
-き
-める: to decided"
-"下
-さ
-がる: to fall, lower, drop","下
-さ
-げる: to lower, pull down, reduce"
-"閉
-し
-まる: to close","閉
-し
-める: to close"
-"止
-と
-まる: to stop","止
-と
-める: to stop"
-"始
-はじ
-まる: to start","始
-はじ
-める: to start"
-"曲
-ま
-がる: to bent, curve, turn","曲
-ま
-げる: to bend, curve"
-"見
-み
-つかる: to be found","見
-み
-つける: to find"
-,
-"壊
-こわ
-れる: to break","壊
-こわ
-す: to break"
-"倒
-たお
-れる: to fall (to the ground), collapse","倒
-たお
-す: to throw down, knock down"
-"汚
-よご
-れる: to become dirty","汚
-よご
-す: to make (it) dirty"
-,
-"売
-う
-れる: to be sold","売
-う
-る: to sell"
-"折
-お
-れる: to break, snap","折
-お
-る: to break, snap"
-"切
-き
-れる: to be cut","切
-き
-る: to cut"
-"撮
-と
-れる: to be photographed, be recorded","撮
-と
-る: to take (photo), to record (video)"
-"割
-わ
-れる: to break","割
-わ
-る: to break"
-,
-"生
-う
-まれる: to be born","生
-う
-む: to give birth"
-,
-"写
-うつ
-る: to be in a photo, be projected","写
-うつ
-す: to copy, transcribe, photograph"
-"帰
-かえ
-る: to go back","帰
-かえ
-す: to let a person go back"
-"返
-かえ
-る: to be returned","返
-かえ
-す: to return"
-"出
-で
-る: to go out, leave, depart","出
-だ
-す(*exception): to take out, let out, put out"
-"直
-なお
-る: to be fixed, be repaired","直
-なお
-す: to fix, repair"
-"治
-なお
-る: to be cured, be recovered","治
-なお
-す: to cure, heal"
-"残
-のこ
-る: to remain, stay","残
-のこ
-す: to leave"
-"回
-まわ
-る: to turn, rotate, revolve, spin","回
-まわ
-す: to turn, rotate, spin"
-"戻
-もど
-る: to be back","戻
-もど
-す: to return"
-,
-"遅
-おく
-れる: to be delayed","遅
-おく
-らす: to delay"
-"逃
-に
-げる: to run away, escape","逃
-に
-がす: to set … free, let …go"
+決まる: to be decided,決める: to decided
+"下がる: to fall, lower, drop","下げる: to lower, pull down, reduce"
+閉まる: to close,閉める: to close
+止まる: to stop,止める: to stop
+始まる: to start,始める: to start
+"曲がる: to bent, curve, turn","曲げる: to bend, curve"
+見つかる: to be found,見つける: to find
+壊れる: to break,壊す: to break
+"倒れる: to fall (to the ground), collapse","倒す: to throw down, knock down"
+汚れる: to become dirty,汚す: to make (it) dirty
+売れる: to be sold,売る: to sell
+"折れる: to break, snap","折る: to break, snap"
+切れる: to be cut,切る: to cut
+"撮れる: to be photographed, be recorded","撮る: to take (photo), to record (video)"
+割れる: to break,割る: to break
+生まれる: to be born,生む: to give birth
+"写る: to be in a photo, be projected","写す: to copy, transcribe, photograph"
+帰る: to go back,帰す: to let a person go back
+返る: to be returned,返す: to return
+"出る: to go out, leave, depart","出す(*exception): to take out, let out, put out"
+"直る: to be fixed, be repaired","直す: to fix, repair"
+"治る: to be cured, be recovered","治す: to cure, heal"
+"残る: to remain, stay",残す: to leave
+"回る: to turn, rotate, revolve, spin","回す: to turn, rotate, spin"
+戻る: to be back,戻す: to return
+遅れる: to be delayed,遅らす: to delay
+"逃げる: to run away, escape","逃がす: to set … free, let …go"
 ぬれる: to get wet,ぬらす: to wet
-"冷
-ひ
-える: to get cold","冷
-ひ
-やす: to cool, to make … cold"
-"増
-ふ
-える: to increase","増
-ふ
-やす: to increase"
-"揺
-ゆ
-れる: to shake","揺
-ゆ
-らす: to sway, shake"
-"消
-き
-える: to disappear","消
-け
-す(*exception): to erase, turn off"
-,
-"動
-うご
-く: to move","動
-うご
-かす: to move"
-"乾
-かわ
-く: to dry","乾
-かわ
-かす: to dry"
-"飛
-と
-ぶ: to fly","飛
-と
-ばす: to fly, send (up), splash"
-"泣
-な
-く: to cry","泣
-な
-かす: to make … cry"
-"沸
-わ
-く: to boil, be excited","沸
-わ
-かす: to boil, excite"
-,
-"起
-お
-きる: to get up","起
-お
-こす: to wake (up)"
-"落
-お
-ちる: to fall, drop","落
-お
-とす: to drop"
-"降
-お
-りる: to get off","降
-お
-ろす: to drop (off), unload"
-"下
-お
-りる: to go down","下
-お
-ろす: to pull down"
-,
-"開
-あ
-く: to open","開
-あ
-ける: to open"
-"空
-あ
-く: to become vacant, empty","空
-あ
-ける: to vacant, empty"
-"聞
-き
-こえる: to be heard","聞
-き
-く: to hear, listen (to)"
-"片
-かた
-づく: to be in order, be finished","片
-かた
-づける: to put … in order, settle"
-"育
-そだ
-つ: to grow","育
-そだ
-てる: to raise"
-"立
-た
-つ: to stand","立
-た
-てる: to set up, put up"
-"建
-た
-つ: to be built","建
-た
-てる: to build"
-"付
-つ
-く: to stick (to)","付
-つ
-ける: to spread, apply, stick, attach"
-"続
-つづ
-く: to continue","続
-つづ
-ける: to continue"
-"届
-とど
-く: to received","届
-とど
-ける: to send"
-"焼
-や
-ける: to be burned","焼
-や
-く: to burn"
-"見
-み
-える: to be seen","見
-み
-る: to look (at), watch, see"
-"寝
-ね
-る: to sleep","寝
-ね
-かせる: to send … to bed"
-"乗
-の
-る: to ride, take","乗
-の
-せる: to give a person a ride"
+冷える: to get cold,"冷やす: to cool, to make … cold"
+増える: to increase,増やす: to increase
+揺れる: to shake,"揺らす: to sway, shake"
+消える: to disappear,"消す(*exception): to erase, turn off"
+動く: to move,動かす: to move
+乾く: to dry,乾かす: to dry
+飛ぶ: to fly,"飛ばす: to fly, send (up), splash"
+泣く: to cry,泣かす: to make … cry
+"沸く: to boil, be excited","沸かす: to boil, excite"
+起きる: to get up,起こす: to wake (up)
+"落ちる: to fall, drop",落とす: to drop
+降りる: to get off,"降ろす: to drop (off), unload"
+下りる: to go down,下ろす: to pull down
+開く: to open,開ける: to open
+"空く: to become vacant, empty","空ける: to vacant, empty"
+聞こえる: to be heard,"聞く: to hear, listen (to)"
+"片づく: to be in order, be finished","片づける: to put … in order, settle"
+育つ: to grow,育てる: to raise
+立つ: to stand,"立てる: to set up, put up"
+建つ: to be built,建てる: to build
+付く: to stick (to),"付ける: to spread, apply, stick, attach"
+続く: to continue,続ける: to continue
+届く: to received,届ける: to send
+焼ける: to be burned,焼く: to burn
+見える: to be seen,"見る: to look (at), watch, see"
+寝る: to sleep,寝かせる: to send … to bed
+"乗る: to ride, take",乗せる: to give a person a ride
