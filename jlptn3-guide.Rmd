@@ -258,7 +258,8 @@ reactable(dt_n2, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(f
 
 ##### **N5:**
 ```{r echo=FALSE, message=FALSE, error=FALSE}
-dt_jlpt_n5 <- jlpt %>% slice(3:2055)
+
+dt_jlpt_n5 <- jlpt %>% slice(2:2055)
 #dt_jlpt_n5 <- sample_n(jlpt_n5,2000)
 reactable(dt_jlpt_n5, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE, wrap = FALSE)
 ```
