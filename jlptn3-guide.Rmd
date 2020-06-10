@@ -73,43 +73,43 @@ dt_rands_6 <- sample_n(rands_6,1200)
 dt_rands_7 <- sample_n(rands_7,1200)
 dt_rands_8 <- sample_n(rands_8,1200)
 
-reactable(dt_rands_1, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
-reactable(dt_rands_2, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
-reactable(dt_rands_3, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
-reactable(dt_rands_4, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
-reactable(dt_rands_5, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
-reactable(dt_rands_6, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
-reactable(dt_rands_7, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
-reactable(dt_rands_8, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(dt_rands_1, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(dt_rands_2, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(dt_rands_3, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(dt_rands_4, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(dt_rands_5, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(dt_rands_6, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(dt_rands_7, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(dt_rands_8, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
 ```
 
 ## Vocabulary
 
 ##### **Core 2K Words:**
 ```{r echo=FALSE, message=FALSE, error=FALSE, message=FALSE}
-reactable(dt_words, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(dt_words, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
 ```
 
 ##### **Compound Words:**
 ```{r echo=FALSE, message=FALSE, error=FALSE, message=FALSE}
-reactable(dt_cords, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(dt_cords, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
 ```
 
 ##### **Intermediate Words:**
 ```{r echo=FALSE, message=FALSE, error=FALSE, message=FALSE}
-reactable(dt_iords, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(dt_iords, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
 ```
 
 ##### **Core 5K Words:**
 ```{r echo=FALSE, message=FALSE, error=FALSE, message=FALSE}
 dt_w5rds <- sample_n(w5rds,4999)
-reactable(dt_w5rds, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(dt_w5rds, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
 ```
 
 ##### **Core 10K Words:**
 ```{r echo=FALSE, message=FALSE, error=FALSE, message=FALSE}
 dt_w5kds <- sample_n(w5kds,4692)
-reactable(w5kds, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(w5kds, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
 ```
 
 
@@ -117,13 +117,13 @@ reactable(w5kds, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(f
 ##### **First  1901 Kanji:**
 ```{r echo=FALSE, message=FALSE, error=FALSE}
 dt_kanji <- sample_n(kanji,1901)
-reactable(dt_kanji, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(dt_kanji, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
 ```
 
 ##### **Single Word Kanji:**
 ```{r echo=FALSE, message=FALSE, error=FALSE}
 #dt_sanji <- sample_n(sanji,937)
-reactable(sanji, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(sanji, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
 ```
 
 ## Expressions
@@ -142,12 +142,12 @@ reactable(sanji, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(f
 
 ##### **Daily Life Expressions:**
 ```{r echo=FALSE, message=FALSE, error=FALSE}
-reactable(exp1, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(exp1, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
 ```
 
 ##### **Going-out Expressions:**
 ```{r echo=FALSE, message=FALSE, error=FALSE}
-reactable(exp1, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(exp1, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
 ```
 
     
@@ -159,9 +159,9 @@ nouns_1 <- nouns %>% slice(0:500)
 nouns_2 <- nouns %>% slice(501:1000)
 nouns_3 <- nouns %>% slice(1001:1500)
 
-reactable(nouns_1, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
-reactable(nouns_2, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
-reactable(nouns_3, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(nouns_1, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(nouns_2, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(nouns_3, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
 
 ```
 
@@ -170,7 +170,7 @@ reactable(nouns_3, striped = TRUE, compact = TRUE, bordered = TRUE, style = list
 
 ```{r echo=FALSE, message=FALSE, error=FALSE}
 dt_verbs <- sample_n(verbs,500)
-reactable(verbs, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(verbs, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
 ```
 
 ##### **Random Verbs:**
@@ -181,8 +181,8 @@ ver2 <- ver1s %>% slice(1001:2000)
 dt_ver1s <- sample_n(ver1,500)
 dt_ver2s <- sample_n(ver2,500)
 
-reactable(dt_ver1s, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
-reactable(dt_ver2s, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(dt_ver1s, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(dt_ver2s, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
 ```
 
 ## Adjectives
@@ -230,25 +230,25 @@ Conversation|	Translation|Structure
 ##### **N5:**
 ```{r echo=FALSE, message=FALSE, error=FALSE}
 dt_n5 <- sample_n(n5,860)
-reactable(dt_n5, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(dt_n5, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
 ```
 
 ##### **N4:**
 ```{r echo=FALSE, message=FALSE, error=FALSE}
 dt_n4 <- sample_n(n4,536)
-reactable(dt_n4, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(dt_n4, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
 ```
 
 ##### **N3:**
 ```{r echo=FALSE, message=FALSE, error=FALSE}
 dt_n3 <- sample_n(n3,1723)
-reactable(dt_n3, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(dt_n3, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
 ```
 
 ##### **N2:**
 ```{r echo=FALSE, message=FALSE, error=FALSE}
 dt_n2 <- sample_n(n2,1614)
-reactable(dt_n2, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "anonymous pro", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(dt_n2, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
 ```
 
 
