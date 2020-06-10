@@ -1,5 +1,5 @@
 ---
-title: "jlptn3"
+title: "nihongo"
 knit: (function(input_file, encoding) {
   out_dir <- 'docs';
   rmarkdown::render(input_file,
@@ -52,7 +52,8 @@ jlpt <- read_csv("jlptvoc.csv")
 
 # {.tabset .tabset-fade .tabset-pills}
 ***
-## Words
+## Vocabulary
+
 ```{r echo=FALSE, message=FALSE, error=FALSE}
 
 rands_1 <- rands %>% slice(0:500)
@@ -84,8 +85,6 @@ reactable(dt_rands_6, striped = TRUE, compact = TRUE, bordered = TRUE, style = l
 reactable(dt_rands_7, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
 reactable(dt_rands_8, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
 ```
-
-## Vocabulary
 
 ##### **Core 2K Words:**
 ```{r echo=FALSE, message=FALSE, error=FALSE, message=FALSE}
@@ -147,11 +146,6 @@ reactable(sanji, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(f
 reactable(exp1, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
 ```
 
-##### **Going-out Expressions:**
-```{r echo=FALSE, message=FALSE, error=FALSE}
-reactable(exp1, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
-```
-
     
 ## Nouns
 
@@ -189,43 +183,48 @@ reactable(dt_ver2s, striped = TRUE, compact = TRUE, bordered = TRUE, style = lis
 
 ## Adjectives
 
+## Adverbs
+
 ## Reading
 
 ## Grammar
 
 ## Conversations
 ##### **Daily Conversations:**
-Conversation|	Translation|Structure
-------------------------------------|-------------------|--------------------
-**Lesson 1	第1課-th/one/lesson**	||
-早く|	Hurry!	|
-行きましょう|	Let’s go|	
-わかりました|	I undestand|	
-どこへ|	Where?|	where/[destination]
-あそこへ|	Over there|	there/[destination]
-暑いですね|	It’s hot. Isn’t it|	hot/it is/[agreement]
-そうですね|	It is. Isn’t| it	so/it is/[agreement]
-**Lesson 2	第2課-th/four/lesson-th/two/lesson**	||
-見ましたか|	Did you see it?|	have seen/[question]
-何を|	What?|	what/[object]
-ピカソ展|	Picasso Exhibition|	Picasso-Exhibition
-まだです|	Not yet|	Not yet/it is
-いいですよ|	It’s really good	|really good/it is/[agreement]
-そうですか|	Really?|	so it is/[question]
-明日行きます|	I’ll go tomorrow|	tomorrow/go
-**Lesson 3	Breakfast**	||
-おはようございます|	Good Morning	|
-おはようございます|	Good Morning	|
-パンを食べますか|	Would you like some bread?|	bread/[object]/eat/[question]
-食べます|	Yes	|eat
-コーヒーを飲みますか|	Would you like some coffee?|	coffee/[object]/drink/[question]
-飲みます|	Yes|	drink
-ビルを飲みますか|	Would you like some beer?	|beer/[object]/drink/[question]
-飲みません|	No|	not drink
-りんごを食べますか|	Would you like some apple?|	apple/[object]/eat/[question]
-食べませ|	No|	not eat
-それでは卵を食べますか|	Well then would you like some eggs?|	so/egg/[object]/eat[question]
-食べます|	Yes|	eat
+
+**Lesson 1	第1課-th/one/lesson**
+    
+    早く          Hurry!	
+    行きましょう	Let’s go!	
+    わかりました  I undestand.
+    どこへ	      Where?	
+    あそこへ      Over there.
+    暑いですね	  It’s hot. Isn’t it.  
+    そうですね	  It is. Isn’t it. 
+
+**Lesson 2	第2課-th/four/lesson-th/two/lesson**
+    
+    見ましたか	  Did you see it?
+    何を	        What?
+    ピカソ展  	  Picasso Exhibition.
+    まだです	    Not yet.
+    いいですよ	  It’s really good.
+    そうですか	  Really?
+    明日行きます	I’ll go tomorrow.
+
+**Lesson 3	Breakfast**	
+
+    おはようございます	Good Morning
+    おはようございます	Good Morning
+    パンを食べますか	  Would you like some bread
+    食べます	          Yes
+    コーヒーを飲みますか	Would you like some coffee?
+    飲みます          	Yes
+    ビルを飲みますか	  Would you like some beer?	
+    飲みません          No
+    りんごを食べますか 	Would you like some apple?
+    それでは卵を食べますか	Well then would you like some eggs?
+    食べます          	Yes	
 
 ## JLPT
 
