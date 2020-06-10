@@ -44,6 +44,9 @@ n2 <- read_csv("jlptcollection/VocabN2-N2Vocab.csv")
 
 exp1 <- read_csv("jlptcollection/GoiN3-Words.csv")
 
+jlpt <- read_csv("jlptvoc.csv")
+
+
 ```
 
 ### **A Self Study Guide**
@@ -251,5 +254,42 @@ dt_n2 <- sample_n(n2,1614)
 reactable(dt_n2, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
 ```
 
+
+## N5-N1
+
+##### **N5:**
+```{r echo=FALSE, message=FALSE, error=FALSE}
+jlpt_n5 <- jlpt %>% slice(0:2055)
+dt_jlpt_n5 <- sample_n(jlpt_n5,2000)
+reactable(dt_jlpt_n5, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE, wrap = FALSE)
+```
+
+##### **N4:**
+```{r echo=FALSE, message=FALSE, error=FALSE}
+jlpt_n4 <- jlpt %>% slice(2057:2724)
+dt_jlpt_n4 <- sample_n(jlpt_n4,660)
+reactable(dt_jlpt_n4, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE, wrap = FALSE)
+```
+
+##### **N3:**
+```{r echo=FALSE, message=FALSE, error=FALSE}
+jlpt_n3 <- jlpt %>% slice(2726:4864)
+dt_jlpt_n3 <- sample_n(jlpt_n3,1650)
+reactable(dt_jlpt_n3, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE, wrap = FALSE)
+```
+
+##### **N2:**
+```{r echo=FALSE, message=FALSE, error=FALSE}
+jlpt_n2 <- jlpt %>% slice(4866:6613)
+dt_jlpt_n2 <- sample_n(jlpt_n2,1700)
+reactable(dt_jlpt_n2, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE, wrap = FALSE)
+```
+
+##### **N1:**
+```{r echo=FALSE, message=FALSE, error=FALSE}
+jlpt_n1 <- jlpt %>% slice(6615:9313)
+dt_jlpt_n1 <- sample_n(jlpt_n1,2200)
+reactable(dt_jlpt_n1, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE, wrap = FALSE)
+```
 
 #
