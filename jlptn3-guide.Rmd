@@ -46,7 +46,6 @@ exp1 <- read_csv("jlptcollection/GoiN3-Words.csv")
 
 jlpt <- read_csv("jlptvoc.csv")
 
-
 ```
 
 ### **A Self Study Guide**
@@ -259,16 +258,16 @@ reactable(dt_n2, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(f
 
 ##### **N5:**
 ```{r echo=FALSE, message=FALSE, error=FALSE}
-jlpt_n5 <- jlpt %>% slice(3:2055)
-dt_jlpt_n5 <- sample_n(jlpt_n5,2000)
+dt_jlpt_n5 <- jlpt %>% slice(3:2055)
+#dt_jlpt_n5 <- sample_n(jlpt_n5,2000)
 reactable(dt_jlpt_n5, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE, wrap = FALSE)
 ```
 
 ##### **N4:**
 ```{r echo=FALSE, message=FALSE, error=FALSE}
-jlpt_n4 <- jlpt %>% slice(2057:2724)
+dt_jlpt_n4 <- jlpt %>% slice(2057:2724)
 #dt_jlpt_n4 <- sample_n(jlpt_n4,660)
-reactable(jlpt_n4, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE, wrap = FALSE)
+reactable(dt_jlpt_n4, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE, wrap = FALSE)
 ```
 
 ##### **N3:**
