@@ -46,6 +46,9 @@ exp1 <- read_csv("jlptcollection/GoiN3-Words.csv")
 
 jlpt <- read_csv("jlptvoc.csv")
 
+n5grmr <- read_csv("mrcollection/N5G-GrammarN5.csv")
+
+
 ```
 
 ### **A Self Study Guide**
@@ -115,16 +118,17 @@ reactable(w5kds, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(f
 
 
 ## Kanji
-##### **First  1901 Kanji:**
-```{r echo=FALSE, message=FALSE, error=FALSE}
-dt_kanji <- sample_n(kanji,1901)
-reactable(dt_kanji, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
-```
 
 ##### **Single Word Kanji:**
 ```{r echo=FALSE, message=FALSE, error=FALSE}
 #dt_sanji <- sample_n(sanji,937)
 reactable(sanji, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+```
+
+##### **Kanji:**
+```{r echo=FALSE, message=FALSE, error=FALSE}
+dt_kanji <- sample_n(kanji,1901)
+reactable(dt_kanji, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
 ```
 
 ## Expressions
@@ -181,6 +185,8 @@ reactable(dt_ver1s, striped = TRUE, compact = TRUE, bordered = TRUE, style = lis
 reactable(dt_ver2s, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
 ```
 
+##### **Transitive-Intransitive Verbs:**
+
 ## Adjectives
 
 ## Adverbs
@@ -189,42 +195,68 @@ reactable(dt_ver2s, striped = TRUE, compact = TRUE, bordered = TRUE, style = lis
 
 ## Grammar
 
+##### **N5 Grammar:**
+```{r echo=FALSE, message=FALSE, error=FALSE, message=FALSE}
+reactable(n5grmr, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+```
+
+##### **N4 Grammar:**
+```{r echo=FALSE, message=FALSE, error=FALSE, message=FALSE}
+
+```
+
+##### **N3 Grammar:**
+```{r echo=FALSE, message=FALSE, error=FALSE, message=FALSE}
+
+```
+
+##### **N2 Grammar:**
+```{r echo=FALSE, message=FALSE, error=FALSE, message=FALSE}
+
+```
+
+##### **N1 Grammar:**
+```{r echo=FALSE, message=FALSE, error=FALSE, message=FALSE}
+
+```
+
+
 ## Conversations
 ##### **Daily Conversations:**
 
 **Lesson 1	第1課-th/one/lesson**
     
-    早く          Hurry!	
-    行きましょう	Let’s go!	
-    わかりました  I undestand.
-    どこへ	      Where?	
-    あそこへ      Over there.
-    暑いですね	  It’s hot. Isn’t it.  
-    そうですね	  It is. Isn’t it. 
+    早く Hurry!	
+    行きましょう Let’s go!	
+    わかりました I undestand.
+    どこへ Where?	
+    あそこへ Over there.
+    暑いですね It’s hot. Isn’t it.  
+    そうですね It is. Isn’t it. 
 
 **Lesson 2	第2課-th/four/lesson-th/two/lesson**
     
-    見ましたか	  Did you see it?
-    何を	        What?
-    ピカソ展  	  Picasso Exhibition.
-    まだです	    Not yet.
-    いいですよ	  It’s really good.
-    そうですか	  Really?
-    明日行きます	I’ll go tomorrow.
+    見ましたか Did you see it?
+    何を What?
+    ピカソ展 Picasso Exhibition.
+    まだです Not yet.
+    いいですよ It’s really good.
+    そうですか Really?
+    明日行きます I’ll go tomorrow.
 
 **Lesson 3	Breakfast**	
 
-    おはようございます	Good Morning
-    おはようございます	Good Morning
-    パンを食べますか	  Would you like some bread
-    食べます	          Yes
-    コーヒーを飲みますか	Would you like some coffee?
-    飲みます          	Yes
-    ビルを飲みますか	  Would you like some beer?	
-    飲みません          No
-    りんごを食べますか 	Would you like some apple?
-    それでは卵を食べますか	Well then would you like some eggs?
-    食べます          	Yes	
+    おはようございます Good Morning
+    おはようございます Good Morning
+    パンを食べますか Would you like some bread
+    食べます Yes
+    コーヒーを飲みますか Would you like some coffee?
+    飲みます Yes
+    ビルを飲みますか Would you like some beer?	
+    飲みません No
+    りんごを食べますか Would you like some apple?
+    それでは卵を食べますか Well then would you like some eggs?
+    食べます Yes	
 
 ## JLPT
 
