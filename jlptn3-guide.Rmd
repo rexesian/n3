@@ -131,6 +131,8 @@ dt_kanji <- sample_n(kanji,1901)
 reactable(dt_kanji, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
 ```
 
+
+
 ## Expressions
 ##### **Daily Expressions:**
 
