@@ -268,7 +268,7 @@ reactable(n5grmr, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(
 ## Conversations
 ##### **Daily Conversations:**
 
-**Lesson 1	第1課-th/one/lesson**
+**Lesson 1**
     
     早く Hurry!	
     行きましょう Let’s go!	
@@ -278,7 +278,7 @@ reactable(n5grmr, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(
     暑いですね It’s hot. Isn’t it.  
     そうですね It is. Isn’t it. 
 
-**Lesson 2	第2課-th/four/lesson-th/two/lesson**
+**Lesson 2**
     
     見ましたか Did you see it?
     何を What?
@@ -288,7 +288,7 @@ reactable(n5grmr, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(
     そうですか Really?
     明日行きます I’ll go tomorrow.
 
-**Lesson 3	Breakfast**	
+**Lesson 3**	
 
     おはようございます Good Morning
     おはようございます Good Morning
@@ -302,6 +302,32 @@ reactable(n5grmr, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(
     それでは卵を食べますか Well then would you like some eggs?
     食べます Yes	
 
+## Casual Conversation
+##### **Daily Conversation:**
+###### 1st
+
+    今日はベランダとリビングをさらに快適にしようかなと思い Today we will improve our veranda and living room
+    日よけに使うパラソルと We need a sun umbrella
+    リビングで食事しやすいように And a meal-friendly table height
+    ちょっと背の高いテーブルをIKEAで注文しました Ordered in Ikea
+    それが今から届くので Coming Soon
+    一緒に組み立てていこうかなと思います Let's Build Together
+ 
+###### 2nd
+ 
+    届きましたー！ So they brought our furniture!
+    机さようならー Goodbye old table!
+    この段ボールカッターおすすめです I advise everyone to this box knife
+    Amazonを良く使う人は... For those who like us often buy on Amazon
+    あ！ロシアとウクライナはあんまり Amazon使わないか Do viewers have no Amazon?
+    そうだね 使わないね... Not everywhere
+
+###### 3rd
+
+    思ったよりちょっと暗めのグレーだね The color is darker than I thought
+    本当だね Really
+    ギリギリ...大きいね All is well... Big one!
+    
 ## JLPT
 
 ##### **N5:**
