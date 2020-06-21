@@ -124,16 +124,16 @@ reactable(w5kds, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(f
 
 1|	2	|3	|4	|5	|6	|7	|8	|9	|10
 -|-|-|-|-|-|-|-|-|-
-人|	一|	日|	大|	年|	本|	中|	子|	見|	国
-上|	分|	生|	行|	二|	間|	時|	気|	十|	女
-三|	前|	入|	小|	後|	長|	下|	学|	月|	何
-来|	話|	山|	高|	今|	書|	五|	名|	金|	男
-外|	四|	先|	川|	東|	聞|	語|	九|	食|	八
-水|	天|	木|	六|	万|	白|	七|	円|	電|	父
-北|	車|	母|	半|	百|	土|	西|	読|	千|	校
-右|	南|	左|	友|	火|	毎|	雨|	休|	年|	駅
-道|	店|	国|	魚|	社|	新|	週|	午|	買|	会
-分|	空|	安|	言|	多|	中|	見|	飲|	来|	行
+人 person|一 one|日 day|大 big|年 year|本 book|中 middle|子 child|見 see|国 country
+上 above|分 portion|生 life|行 go|二 two|間 interval|時 time|気 spirit|十 ten|女 women
+三 three|前 before|入 enter|小 few|後 after|長 long|下 below|学 study|月 month|何 what
+来 next|話 talk|山 mountain|高 tall|今 now|書 write|五 five|名 name|金 gold|男 men
+外 outside|四 four|先 ahead|川 river|東 east|聞 hear|語 language|九 nine|食 eat|八 eight
+水 water|天 sky|木 tree|六 six|万 10thou|白 white|七 seven|円 yen|電 electricity|父 father
+北 north|車 car|母 mother|半 half|百 hundred|土 soil|西 west|読 read|千 thousand|校 school 
+右 right|南 south|左 left|友 friend|火 fire|毎 every|雨 rain|休 body|年 year|駅 station
+道 road|店 stire|出 go out|魚 fish|社 company|新 new|週 week|午 afternoon|買 buy|会 meet
+分 portion|空 air|安 cheap|言 say|多 many|中 middle|見 see|飲 drink|来 next|行 go
 
 ##### **Kanji-Words:**
 ```{r echo=FALSE, message=FALSE, error=FALSE}
@@ -148,16 +148,24 @@ reactable(n5kanjisw, striped = TRUE, compact = TRUE, bordered = TRUE, style = li
 
 1|	2	|3	|4	|5	|6	|7	|8	|9	|10
 -|-|-|-|-|-|-|-|-|-
-言|	手|	自|	者|	事|	思|	会|	家|	的|	方
-地|	目|	場|	代|	私|	立|	物|	田|	体|	動
+言 say|手 hand|自 self|者 person|事 thing|思 think|会 meet|家 house|的 target|方 way
+地 earth|目 eye|場 place|代 change|私 pay|立 stand|物 thing|田 field|体 rest|動 move
 社|	知|	理|	同|	心|	発|	作|	新|	世|	度
 明|	力|	意|	用|	主|	通|	文|	屋|	業|	特
 道|	身|	不|	口|	多|	野|	考|	開|	教|	近
-水|	天|	木|	六|	万|	白|	七|	円|	電|	父
-北|	車|	母|	半|	百|	土|	西|	読|	千|	校
-右|	南|	左|	友|	火|	毎|	雨|	休|	年|	駅
-道|	店|	国|	魚|	社|	新|	週|	午|	買|	会
-分|	空|	安|	言|	多|	中|	見|	飲|	来|	行
+以|	問|	正|	真|	味|	界|	無|	少|	海|	切
+重|	集|	員|	公|	画|	死|	安|	親|	強|	使
+朝|	題|	仕|	京|	足|	品|	着|	右|	南|	左
+友|	火|	毎|	雨|	休|	年|	駅|	別|	音|	元
+特|	風|	新|	夜|	空|	有|	起|	運|	料|	楽
+色|	帰|	歩|	悪|	広|	店|	町|	住|	待|	古
+始|	終|	計|	院|	送|	族|	映|	買|	病|	早
+質|	台|	室|	可|	建|	転|	医|	止|	字|	工
+急|	図|	黒|	花|	英|	歩|	青|	紙|	歌|	注
+赤|	春|	館|	旅|	験|	写|	去|	研|	飲|	肉
+服|	銀|	茶|	究|	洋|	兄|	秋|	堂|	週|	習
+試|	夏|	弟|	鳥|	犬|	夕|	魚|	借|	飯|	駅
+昼|	冬|	姉|	曜|	漢|	牛|	妹|	貸|	勉|	答
 
 ## Kanji
 
