@@ -241,6 +241,19 @@ reactable(dt_ver2s, striped = TRUE, compact = TRUE, bordered = TRUE, style = lis
 
 ## Adjectives
 
+```{r echo=FALSE, message=FALSE, error=FALSE}
+adjn <- read_csv("en_vocab_list/Adjectival nouns-Table 1.csv")
+adji <- read_csv("en_vocab_list/Adjectives (-i)-Table 1.csv")
+adjn <- adjn %>% slice(1:500)
+adji <- adji %>% slice(1:500)
+#dt_jlpt_n3 <- sample_n(jlpt_n3,1650)
+reactable(adjn, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE, wrap = FALSE)
+
+
+reactable(adji, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE, wrap = FALSE)
+```
+
+
 ## Adverbs
 
 ## Reading
@@ -421,8 +434,9 @@ reactable(intkn, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(f
 
 ##### **Compound-Kanji-Sentence:**
 
-**Expression	Meaning**   
-料理を作るのは大好きです	*I am very fond of cooking*   
-正月までは一か月ぐらいです	*There is about a month until New Year’s Day*  
+**Expression-Meaning**   
+  
+    料理を作るのは大好きです I am very fond of cooking  
+    正月までは一か月ぐらいです There is about a month until New Year’s Day
 
 #
