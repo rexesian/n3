@@ -401,4 +401,28 @@ dt_jlpt_n1 <- sample_n(jlpt_n1,2200)
 reactable(dt_jlpt_n1, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE, wrap = FALSE)
 ```
 
+## Intermediate
+
+##### **Intermediate-Vocabulary:**
+```{r echo=FALSE, message=FALSE, error=FALSE}
+intvc <- read_csv("jlptvoc/intvc-jlptvoc.csv")
+intvc <- intvc %>% slice(1:79)
+#dt_jlpt_n1 <- sample_n(jlpt_n1,2200)
+reactable(intvc, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE, wrap = FALSE)
+```
+
+##### **Intermediate-Kanji:**
+```{r echo=FALSE, message=FALSE, error=FALSE}
+intkn <- read_csv("jlptvoc/intkanji-jlptvoc.csv")
+intkn <- intkn %>% slice(1:10)
+#dt_jlpt_n1 <- sample_n(jlpt_n1,2200)
+reactable(intkn, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE, wrap = FALSE)
+```
+
+##### **Compound-Kanji-Sentence:**
+
+**Expression	Meaning**   
+料理を作るのは大好きです	*I am very fond of cooking*   
+正月までは一か月ぐらいです	*There is about a month unit New Year’s Day*  
+
 #
