@@ -423,6 +423,6 @@ reactable(intkn, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(f
 
 **Expression	Meaning**   
 料理を作るのは大好きです	*I am very fond of cooking*   
-正月までは一か月ぐらいです	*There is about a month unit New Year’s Day*  
+正月までは一か月ぐらいです	*There is about a month until New Year’s Day*  
 
 #
