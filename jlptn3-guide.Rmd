@@ -222,7 +222,7 @@ reactable(nouns_3, striped = TRUE, compact = TRUE, bordered = TRUE, style = list
 
 ```{r echo=FALSE, message=FALSE, error=FALSE}
 dt_verbs <- sample_n(verbs,500)
-reactable(verbs, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+reactable(dt_verbs, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
 ```
 
 ##### **Random Verbs:**
