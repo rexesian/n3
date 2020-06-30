@@ -46,7 +46,8 @@ exp1 <- read_csv("jlptcollection/GoiN3-Words.csv")
 
 jlpt <- read_csv("jlptvoc.csv")
 
-n5grmr <- read_csv("mrcollection/N5G-GrammarN5.csv")
+
+n5grmr <- read_csv("jlptvoc/grmr-jlptvoc.csv")
 
 n5kanji <- read_csv("kanjin5n1/KanjiN5-J5.csv")
 n5kanjisw <- read_csv("kanjin5n1/N5-SW.csv")
@@ -259,10 +260,62 @@ reactable(adji, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fo
 ## Reading
 
 ## Grammar
-
 ##### **N5 Grammar:**
+
+Grammar|	Reading|	Meaning|	Structure|	Add  |
+--|-|---|---|---|
+だけ|	dake|	only, just|	Vcasual, I-Adj, Na-Adj + na, N | 	+ dake  
+だろう|	darou|	probably|	Vcasual, I-Adj, Na-Adj, N |	+ darou  
+で|	de|	at, in, on|	Location |	+ de  
+でしょう|	deshou|	I think, probably|	Verb, Adj, Noun|	+ deshou  
+が|	ga|	but, however|	Sentence + ga + Sentence|	(ga -in between sentence)  
+がある|	gaaru|	to be, to exist|	Person/Place + (ni)ha + thing|	+ gaaru   
+がいる|	gairu|	to exist, there is/are|	Person/Place + (ni)ha + thing|	+ gairu   
+ほうがいい|	hougaii|	it’d be better to, had better, should|	Vcasual-Past, Vcasual-NonPast|	+ hougaii  
+ほうがいい|	hougaii|	it’d be better to not to do something|	Vnai|	+ hougaii  
+いちばん|	Ichiban|	the most, the best|	N + ha/ga + Ichiban + Adj + da|	(ichiban -inside the pattern)  
+いちばん|	Ichiban|	the most, the best|	Vdict + noha/noga + Ichiban + Adj + da|	(ichiban -inside the pattern)  
+いちばん|	Ichiban|	the most, the best|	Topic + ha + place/category + de + Ichiban + Adj + (N) + da|	(ichiban -inside the pattern)  
+か|	ka|	or (choice between two objects)|	Vcasual, I-Adj, Na-Adj, N| 	+ ka  
+から|	kara|	because, since|	Verb, I-Adj, Na-Adj + da, N + da|	+ kara  
+から|	kara|	from|	Noun|	+ kara  
+けれども|	keredomo|	but (although, though)|	Clause, V-Plain, Adj-Plain|	+ keredomo  
+けど|	kedo|	but (although, though)|	Clause, V-Plain, Adj-Plain|	+ kedo  
+くらい|	kurai / gurai|	about (approximately)|	Number/Counter|	+ kurai / gurai  
+まだ|	mada|	still, not yet|	mada + Vte / N|	(mada -start of the pattern)  
+まえに|	maeni|	before, in front of|	Vdict, N + no|	+ maeni  
+ませんか|	masenka|	let’s, won’t you, wouldn’t you|	Vpolite-negative|	+ masenka  
+ましょう|	mashou|	let’s, shall we|	Vmasu-Stem|	+ mashou  
+も|	mo|	also, too, as well|	Noun|	+ mo  
+もう|	mou|	already, anymore|	mou + V-past, V-negative|	(mada -start of the pattern)  
+な|	na|	don’t do|	Vcasual|	+ na  
+ないでください|	naidekudasai|	please don’t|	Vcommand-negative (naide)|	+ kudasai  
+なる|	naru|	to become|	I-Adj(i) + ku, Na-Adj + ni, N + ni|	+ naru  
+に|	ni|	in, at, on, for|	Noun|	+ ni  
+に / へ|	ni / e|	to|	Noun|	+ ni  
+にいく|	niiku|	to go inorder| to	V-stem|	+ niiku  
+にする|	nisuru|	to decide on|	Noun|	+ nisuru  
+のがじょうず|	nogajouzu|	to be good at|	Vdict|	+ nogajouzu  
+のがすき|	nogasuki|	like doing|	Vdict + nogasuki + da|	(nogasuki -inside the pattern)  
+のがへた|	nogaheta|	to be bad at|	Vdict|	+ nogaheta  
+すぎる|	sugiru|	too much|	V-stem, Adj-stem|	+ sugiru  
+たい|	tai|	want to|	V-stem|	+ tai  
+たことがある|	takotogaaru|	have done before|	V-plain-past|	+ kotogaaru  
+ている|	teiru|	is/are/am doing|	Vte|	+ iru  
+てもいい|	temoii|	it is ok, is alright to, can|	Vte, I-Adj(i)|	+ temoii  
+でもいい|	demoii|	it is ok, is alright to, can|	Na-Adj, N|	+ demoii  
+てから|	tekara|	after doing|	Vte|	+ kara  
+てはいけない|	tewaikenai|	must not, may not|	Vte|	+ ikenai  
+と|	to|	and, with|	N + to + N|	(to -inside the pattern)  
+つもりだ|	tsumorida|	plan to, intend to|	Vdict, I-Adj (non-past), Na-Adj + na, N + no|	+ tsumorida  
+や|	ya|	and|	N + ya + N|	(ya -inside the pattern)  
+より~のほうが|	yori~nohouga|	is more~than|	N1 + yori + N2 + nohouga + Adj|	(yori~nohouga -inside the pattern)  
+より~のほうが|	yori~nohouga|	is more~than|	Vphrase1 + yori + Vphrase2 + nohouga + Adj|	(yori~nohouga -inside the pattern)  
+より~のほうが|	yori~nohouga|	is more~than|	topic1 + yori + topic2 + nohouga + Adj|	(yori~nohouga -inside the pattern)  
+
+
 ```{r echo=FALSE, message=FALSE, error=FALSE, message=FALSE}
-reactable(n5grmr, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = TRUE, searchable = TRUE, showSortIcon = TRUE)
+#reactable(n5grmr, striped = TRUE, compact = TRUE, bordered = TRUE, style = list(fontFamily = "courier", fontSize = "13px"),highlight = #TRUE, searchable = TRUE, showSortIcon = TRUE)
 ```
 
 ##### **N4 Grammar:**
